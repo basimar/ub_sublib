@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>make-tab-sublib.pl  - aktualisiert Aleph-Tabellen aus masterfile.txt</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rev="made" href="mailto:root@localhost" />
+</head>
+
+<body style="background-color: white">
+<table border="0" width="100%" cellspacing="0" cellpadding="3">
+<tr><td class="block" style="background-color: #cccccc" valign="middle">
+<big><strong><span class="block">&nbsp;make-tab-sublib.pl  - aktualisiert Aleph-Tabellen aus masterfile.txt</span></strong></big>
+</td></tr>
+</table>
+
+
+<!-- INDEX BEGIN -->
+<div name="index">
+<p><a name="__index__"></a></p>
+
+<ul>
+
+	<li><a href="#name">NAME</a></li>
+	<li><a href="#synopsis">SYNOPSIS</a></li>
+	<li><a href="#description">DESCRIPTION</a></li>
+	<ul>
+
+		<li><a href="#alephe_tab_sub_library">ALEPHE/tab_sub_library</a></li>
+		<li><a href="#aut_check_doc_tag_text">AUT/check_doc_tag_text</a></li>
+		<li><a href="#bib_check_doc_tag_text">BIB/check_doc_tag_text</a></li>
+		<li><a href="#hol_check_doc_tag_text">HOL/check_doc_tag_text</a></li>
+		<li><a href="#adm_tab_exp_own__lng_">ADM/tab_exp_own.&lt;lng&gt;</a></li>
+	</ul>
+
+	<li><a href="#history">HISTORY</a></li>
+	<li><a href="#author">AUTHOR</a></li>
+</ul>
+
+<hr name="index" />
+</div>
+<!-- INDEX END -->
+
+<p>
+</p>
+<h1><a name="name">NAME</a></h1>
+<p>make-tab-sublib.pl  - aktualisiert Aleph-Tabellen aus masterfile.txt</p>
+<p>
+</p>
+<hr />
+<h1><a name="synopsis">SYNOPSIS</a></h1>
+<pre>
+ Gebrauch:  make-tab-sublib.pl &lt;option&gt;</pre>
+<pre>
+ Optionen:
+   -t    aktualisiert nur tab_sub_library.&lt;lng&gt;  (ALEPHE) - fuer neue Bibliotheken und Ausleihe
+   -c    aktualisiert nur check_doc_tag_text     (AUT/BIB/HOL) - fuer neue Bibliotheken in 040
+   -o    aktualisiert nur tab_exp_own.&lt;lng&gt;      (ADM) - fuer neue Bibliotheken-Berechtigungen
+   -a    aktualisert alles
+   -h    help - zeigt diesen Text
+   -n    no upload - generiert Dateien in ./tmp, macht aber keinen Upload</pre>
+<p>
+</p>
+<hr />
+<h1><a name="description">DESCRIPTION</a></h1>
+<ul>
+<li>
+<p>holt Dateien vom Host (tab_sub_library.&lt;lng&gt; aus ALEPHE, check_doc_tag_text
+aus AUT/BIB/HOL)</p>
+</li>
+<li>
+<p>generiert fuer jedes File die entsprechenden Abschnitte aus dem Masterfile</p>
+</li>
+<li>
+<p>macht ein Backup der Originaldateien auf dem Host</p>
+</li>
+<li>
+<p>kopiert die neue Versionen auf den Server</p>
+</li>
+<li>
+<p>loescht die UTF-Version der Originaldateien auf dem Server</p>
+</li>
+</ul>
+<p>
+</p>
+<h2><a name="alephe_tab_sub_library">ALEPHE/tab_sub_library</a></h2>
+<pre>
+ Default (keine Ausleihe):
+ ------------------------</pre>
+<pre>
+ ! 1   2   3   4             5                    6     7     8     9    10   11    12    13
+ !!!!!-!-!!!!!-!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!
+ A190  1 DSV51 L Basel Deutsches Seminar        DSV51</pre>
+<pre>
+ Lokale Ausleihe:
+ ----------------
+ - Bibliothekscode in in Spalte 9</pre>
+<pre>
+ ! 1   2   3   4             5                    6     7     8     9    10   11    12    13
+ !!!!!-!-!!!!!-!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!
+ A332  1 DSV51 L Basel Musik-Akademie           DSV51 IDS   A332  A332</pre>
+<pre>
+ Verbund-Ausleihe:
+ -----------------
+ - Bibliothekscode in in Spalte 9
+ - 'DSV51' in Spalte 10</pre>
+<pre>
+ ! 1   2   3   4             5                    6     7     8     9    10   11    12    13
+ !!!!!-!-!!!!!-!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!-!!!!!
+ A198  1 DSV51 L Basel Geographisches Institut  DSV51 IBB   A198  A198  DSV51</pre>
+<pre>
+ Ausnahmen:
+ ----------
+ A110  Stoerkatalogisierung. Nur Pro Memoria aufgenommen (auskommentiert)
+ A125  eigene GroupID 'A125' statt DSV51
+ B402  Spezialfall: Verbundausleihe, aber mit StUB Benutzer Record
+ B450  Stoerkatalogisierung. Nur Pro Memoria aufgenommen (auskommentiert)</pre>
+<p>
+</p>
+<h2><a name="aut_check_doc_tag_text">AUT/check_doc_tag_text</a></h2>
+<pre>
+ 040## L a SzZuIDS BS/BE A100</pre>
+<p>
+</p>
+<h2><a name="bib_check_doc_tag_text">BIB/check_doc_tag_text</a></h2>
+<p>Seit 1.01.2010 wird das Feld 040 in check_doc_tag nicht mehr geprueft.
+Siehe <a href="http://www.ub.unibas.ch/babette/index.php/News:2010-01-04">http://www.ub.unibas.ch/babette/index.php/News:2010-01-04</a></p>
+<p>
+</p>
+<h2><a name="hol_check_doc_tag_text">HOL/check_doc_tag_text</a></h2>
+<pre>
+ OWN## L a A100</pre>
+<p>
+</p>
+<h2><a name="adm_tab_exp_own__lng_">ADM/tab_exp_own.&lt;lng&gt;</a></h2>
+<pre>
+ A100                                               A100
+ A110                                               A110
+ A125                                               A125
+ A140                                               A140</pre>
+<p>
+</p>
+<hr />
+<h1><a name="history">HISTORY</a></h1>
+<pre>
+ 09.03.1999: v1
+ 30.12.2004: rewrite fuer parallele Mutation V14/V16, MSWin32 und Solaris
+             Anmerkung: die Struktur aller Tabellen ist identisch in V14 und V16
+             V14 herausgenommen (blu)
+ 14.10.2005: DST-Libraries herausgenommen (blu)
+ 04.08.2006: Generierung von tab_exp_own.&lt;lng&gt; ergaenzt (blu)
+ 27.11.2007: V18: allg. Anpassungen (blu)
+ 27.11.2007: Kein ALEPH-Zweigstellenprofil mehr in Spalte 11 tab_sub_library.lng f. Verbundausleihe (blu)
+ 06.12.2007: Win32-Code entfernt, Option no upload, exaktere Hosterkennung (ava)
+ 06.04.2008: Aenderungen fuer neues Ausleihmodell IDS (ava)
+ 26.03.2009: Fehler bzw. Anachronismus in make_checkdoc_hol() korrigiert (blu)
+ 12.08.2009: Extrawurst A125 entfernt
+ 17.12.2010: 040 in check_doc_tag der BIB wird nicht mehr geprueft
+             siehe <a href="http://www.ub.unibas.ch/babette/index.php/News:2010-01-04">http://www.ub.unibas.ch/babette/index.php/News:2010-01-04</a>
+ 04.04.2013: V21/blu
+ 28.05.2014: V22/blu</pre>
+<p>
+</p>
+<hr />
+<h1><a name="author">AUTHOR</a></h1>
+<p><a href="mailto:andres.vonarx@unibas.ch,">andres.vonarx@unibas.ch,</a> <a href="mailto:bernd.luchner@unibas.ch">bernd.luchner@unibas.ch</a></p>
+<table border="0" width="100%" cellspacing="0" cellpadding="3">
+<tr><td class="block" style="background-color: #cccccc" valign="middle">
+<big><strong><span class="block">&nbsp;make-tab-sublib.pl  - aktualisiert Aleph-Tabellen aus masterfile.txt</span></strong></big>
+</td></tr>
+</table>
+
+</body>
+
+</html>

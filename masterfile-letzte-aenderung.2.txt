@@ -1,0 +1,18 @@
+27c27
+< # generiert:  3.09.2020  10:19:21
+---
+> # generiert:  4.09.2020  14:31:12
+33,34c33,34
+< 100FG  Freihandmagazin, vor 1976 Magazin
+< 100FM  Freihandmagazin
+---
+> 100FG  Freihandmagazin, vor 1976 Magazin, z.Zt. nicht zugänglich, bitte bestellen
+> 100FM  Freihandmagazin, z.Zt. nicht zugänglich, bitte bestellen
+43c43
+< 100ZG  Zeitschriftenmagazin, vor 1900 Magazin
+---
+> 100ZG  Zeitschriftenmagazin, vor 1900 Magazin, z.Zt. nicht zugänglich, bitte bestellen
+46c46
+< 100ZM  Zeitschriftenmagazin
+---
+> 100ZM  Zeitschriftenmagazin, z.Zt. nicht zugänglich, bitte bestellen

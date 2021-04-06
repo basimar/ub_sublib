@@ -1,0 +1,9 @@
+27c27
+< # generiert: 29.01.2021  13:13:57
+---
+> # generiert:  1.02.2021  16:26:15
+602,605d601
+< SUBLIBRARY:   A306      Basel Sportmuseum Schweiz
+< # Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+< FH     Freihandbereich
+< 

@@ -1,0 +1,1382 @@
+# IDS Basel/Bern - masterfile.txt
+#
+# Übersicht Sublibraries, Collections
+# -----------------------------------
+#
+# ERKLAERUNG:
+#
+# Sublibrary:
+# Code: max 4 Stellen; A=Basel, B=Bern, Z=extern
+# Bezeichnung max 30 Stellen:
+#---+----|----+----|----+----|
+#
+# Collection:
+# Code: max 5 Stellen
+# Bezeichnung max. 80 Stellen
+#---+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
+#
+# RESERVIERTE BEREICHE
+#
+# A100-A140 BS UB und Filialen
+# A150-A399 BS Verbund
+# B400-B419 BE StUB und Filialen
+# B420-B449 BE betreut von StUB
+# B450-B699 BE Uni
+# Z900-Z999 [kein Exemplar nachgewiesen]
+# --------------------------------------------------------
+# generiert: 13.04.2007  10:39:56
+# --------------------------------------------------------
+SUBLIBRARY:   A100      BS UB
+KAT    Katalogsaal
+LS     Lesesaal
+MAG    Magazin
+100FG  Freihandmagazin, vor 1976 Magazin
+100FM  Freihandmagazin
+100FZ  Freihandmagazin, vor 1976 Zeitschriftenmagazin
+100HP  Handbibliothek Personal
+100IL  Nehmende Fernleihe
+100IN  Information
+100KS  Kartensammlung
+100PM  Magazin (provisorisch)
+100VR  verschiedene Standorte
+100ZG  Zeitschriftenmagazin (Freihandbestand), vor 1900 Magazin
+100ZL  Zeitschriftenlesesaal
+100ZM  Zeitschriftenmagazin (Freihandbestand)
+102G   Handschriftenmagazin
+102K   Handschriftenmagazin
+102LI  Handschriftenmagazin
+102LN  Handschriftenmagazin
+102N   Handschriftenmagazin
+102P   Handschriftenmagazin
+102S   Sonderlesesaal
+105AM  Amerbach Edition
+105BE  Bernoulli Edition
+105BU  Burckhardt Edition
+105EH  Emma Herwegh-Edition (3 Arbeitstage Wartefrist)
+105HO  Homer-Kommentar (3 Arbeitstage Wartefrist)
+105LU  Lucan-Projekt (3 Arbeitstage Wartefrist)
+105NI  Nietzsche-Edition (3 Arbeitstage Wartefrist)
+
+SUBLIBRARY:   A110      BS UB Störkatalogisierung
+
+SUBLIBRARY:   A125      BS WWZ/SWA
+FH     Freihandbereich
+LS     Lesesaal
+MAG    Magazin
+125IL  Nehmende Fernleihe
+125LF  Lesesaal-Fach
+125SW  Magazin SWA
+125TH  Theke
+125VD  Freihandbereich, online, teilweise Magazin
+
+SUBLIBRARY:   A140      BS Medizinbibliothek
+FH     Freihandbereich
+140FZ  Freihandbereich, Zeitschriften
+140IL  Nehmende Fernleihe
+140TK  Theke
+
+SUBLIBRARY:   A145      BS Online
+OL     Online. Links siehe unter 'Externe Verbindung'
+145CD  CD-Server nur im Uninetz zugänglich. Links siehe unter 'Externe Verbindung'
+145DB  Datenbank nur im Uninetz zugänglich. Links siehe unter 'Externe Verbindung'
+145VT  Volltext nur im Uninetz zugänglich. Links siehe unter 'Externe Verbindung'
+
+SUBLIBRARY:   A150      BS Arch. f. schweiz. Kunstgs.
+FH     Freihandbereich
+
+SUBLIBRARY:   A152      BS Mission 21
+FH     Freihandbereich
+MAG    Magazin
+152KG  Magazin 1
+
+SUBLIBRARY:   A160      BS Israelitische Gemeinde
+FH     Freihandbereich
+
+SUBLIBRARY:   A162      BS Allgemeine Lesegesellschaft
+FH     Freihandbereich
+
+SUBLIBRARY:   A164      BS Paul-Sacher-Stiftung
+FH     Freihandbereich
+MAG    Magazin
+
+SUBLIBRARY:   A166      BS Pro Natura
+FH     Freihandbereich
+PR     Präsenzbestand
+
+SUBLIBRARY:   A168      BS Archäologie Schweiz
+FH     Freihandbereich
+
+SUBLIBRARY:   A176      BS Aegyptologisches Seminar
+PR     Präsenzbestand
+176FH  Freihandbereich [Eigentum UB]
+176GM  Gertrud Mayer-Bibliothek
+176MA  Michael Atzler-Bibliothek
+
+SUBLIBRARY:   A178      BS Anatomisches Institut
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   A180      BS Archäologisches Seminar
+PR     Präsenzbestand
+180FH  Freihandbereich [Eigentum UB]
+
+SUBLIBRARY:   A182      BS Astronomisches Institut
+FH     Freihandbereich
+RARA   Rara
+ZSS    Zeitschriften
+
+SUBLIBRARY:   A184      BS Biochemisches Institut
+FH     Freihandbereich
+
+SUBLIBRARY:   A186      BS Biozentrum
+FH     Freihandbereich
+186Z1  Abt.Reichert PZ/6.St.
+186Z2  Abt.Schmid PZ/6.St.
+186Z3  Abt.Senn
+186ZM  Zentrum für Mikroskopie
+186ZO  Zoologie-Bibliothek
+
+SUBLIBRARY:   A188      BS Bot.Inst. Abtl. Ökologie
+FH     Freihandbereich
+188AB  Allgemeine Bibliothek
+188K1  Kasten 1
+188RE  Sammlung Renz
+188SB  Systematische Bibliothek
+
+SUBLIBRARY:   A189      BS Bot.Inst. Abtl. Physiologie
+FH     Freihandbereich
+
+SUBLIBRARY:   A190      BS Deutsches Seminar
+FH     Freihandbereich
+190B1  Büro 301
+190BB  Bibliotheksbüro
+190DF  Deutsch als Fremdsprache
+190NO  Abt. Nordistik
+190RA  Rara
+
+SUBLIBRARY:   A191      BS Deutsches Seminar Nordistik
+PR     Präsenzbestand
+191B1  Büro 120
+191B2  Bibliotheksraum 220
+191B3  Büro 114
+
+SUBLIBRARY:   A192      BS Englisches Seminar
+FH     Freihandbereich
+PR     Präsenzbestand
+19221  Room 21
+19224  Room 24
+19227  Room 27
+192R1  Room 1
+192R2  Room 2
+192R3  Room 3
+192R4  Room 4
+192SE  Sekretariat
+192VE  Veranda
+
+SUBLIBRARY:   A196      BS Institut für Rechtsmedizin
+FH     Freihandbereich
+
+SUBLIBRARY:   A198      BS Geographisches Institut
+FH     Freihandbereich
+MAG    Magazin
+198KS  Kartensammlung
+198ME  Meteorol./Klimaökologie, Freihandbereich
+198NL  NLU-Biogeographie, St. Johannsvorstadt, Freihandbereich
+
+SUBLIBRARY:   A200      BS Geol. pal. Institut
+FH     Freihandbereich
+
+SUBLIBRARY:   A201      BS Umweltgeowissenschaften
+FH     Freihandbereich
+
+SUBLIBRARY:   A202      BS Historisches Seminar
+FH     Freihandbereich
+
+SUBLIBRARY:   A204      BS Institut für Physik
+FH     Freihandbereich
+20400  3. Stock Kasten 100
+20401  3. Stock Kasten 101
+204R3  Raum 3.12
+
+SUBLIBRARY:   A206      BS Institut für Psychologie
+FH     Freihandbereich
+PR     Präsenzbestand
+206EE  Sem.App. Erwachsenenentwicklung
+
+SUBLIBRARY:   A208      BS Juristische Fakultät
+FH     Freihandbereich
+LS     Lesesaal
+ZSS    Zeitschriften
+208BA  Basisliteratur
+208FO  FB öff. Recht (nicht zugänglich)
+208FP  FB Privatrecht (nicht zugänglich)
+208FS  FB Strafrecht (nicht zugänglich)
+208H0  HB Studiendekanat (nicht zugänglich)
+208H1  HB öff. Recht 1 (nicht zugänglich)
+208H2  HB öff. Recht 2 (nicht zugänglich)
+208H3  HB öff. Recht 3 (nicht zugänglich)
+208H4  HB öff. Recht 4 (nicht zugänglich)
+208H5  HB Privatrecht 5 (nicht zugänglich)
+208H6  HB Privatrecht 6 (nicht zugänglich)
+208H7  HB Privatrecht 7 (nicht zugänglich)
+208H8  HB Privatrecht 8 (nicht zugänglich)
+208H9  HB Strafrecht 9 (nicht zugänglich)
+208HA  HB öff. Recht 10 (nicht zugänglich)
+208HB  HB öff. Recht 11 (nicht zugänglich)
+208M1  Magazin 1
+208M2  Magazin 2
+208M3  Magazin 3
+
+SUBLIBRARY:   A210      FHNW ISP
+FH     Freihandbereich
+
+SUBLIBRARY:   A212      BS Sem. für Klass. Philologie
+FH     Freihandbereich
+212IG  Indogerm. Sprachen, Freihandbereich
+
+SUBLIBRARY:   A214      BS Kantonales Laboratorium
+FH     Freihandbereich
+MAG    Magazin
+
+SUBLIBRARY:   A216      BS Mathematisches Institut
+PR     Präsenzbestand
+
+SUBLIBRARY:   A218      BS Versicherungst. Abt. MI
+FH     Freihandbereich
+
+SUBLIBRARY:   A220      BS Medizinhist. Bibliothek
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A222      BS Inst. f. med. Mikrobiologie
+FH     Freihandbereich
+PR     Präsenzbestand
+
+SUBLIBRARY:   A224      BS Min.-petr. Institut
+FH     Freihandbereich
+
+SUBLIBRARY:   A226      BS Musikwiss. Institut
+FH     Freihandbereich
+226SR  Schrank
+
+SUBLIBRARY:   A228      BS Dep.-bibliothek Chemie
+FH     Freihandbereich
+228PC  Institut  für Physikal. Chemie
+
+SUBLIBRARY:   A230      BS Orientalisches Seminar
+PR     Präsenzbestand
+
+SUBLIBRARY:   A232      BS Institut für Pathologie
+FH     Freihandbereich
+
+SUBLIBRARY:   A235      BS Pharmazeutische Biologie
+PR     Präsenzbestand
+235B1  Büro Prof.
+235B2  Büro Pharmazentrum
+
+SUBLIBRARY:   A236      BS Molekulare Pharmazie
+PR     Präsenzbestand
+
+SUBLIBRARY:   A237      BS Pharmazeutische Technologie
+PR     Präsenzbestand
+
+SUBLIBRARY:   A238      BS Philosophisches Seminar
+PR     Präsenzbestand
+RARA   Rara
+238DE  Depot
+
+SUBLIBRARY:   A239      BS Philos. Seminar Pädagogik
+239HB  Handbibliothek
+
+SUBLIBRARY:   A240      BS Institut für Physiologie
+FH     Freihandbereich
+
+SUBLIBRARY:   A241      BS Institut f. Iberoromanistik
+KAT    Katalogsaal
+RARA   Rara
+ZSS    Zeitschriften
+241BS  Büro Schmid
+241SL  Literatur
+241SS  Sprachwissenschaft
+
+SUBLIBRARY:   A242      BS Franz. Sprach- u. Lit.Wiss.
+KAT    Katalogsaal
+RARA   Rara
+ZSS    Zeitschriften
+242FL  Französische Literatur
+242FS  Französische Sprachwissenschaft
+242U1  Uebungsraum 1
+
+SUBLIBRARY:   A243      BS Institut für Italianistik
+KAT    Katalogsaal
+RARA   Rara
+ZSS    Zeitschriften
+243IL  Literatur
+243IS  Sprachwissenschaft
+
+SUBLIBRARY:   A244      BS Seminar f. Alte Geschichte
+FH     Freihandbereich
+
+SUBLIBRARY:   A246      BS Slavisches Seminar
+FH     Freihandbereich
+246RH  Rheinsprung 9
+
+SUBLIBRARY:   A248      BS Institut für Soziologie
+FH     Freihandbereich
+ZSS    Zeitschriften
+
+SUBLIBRARY:   A250      BS Institut für Sport
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A251      BS Frey-Grynäisches Institut
+PR     Präsenzbestand
+
+SUBLIBRARY:   A252      BS Theologisches Seminar
+MAG    Magazin
+PR     Präsenzbestand
+RARA   Rara
+ZSS    Zeitschriften
+
+SUBLIBRARY:   A253      BS Archäolog. Bodenforschung
+PR     Präsenzbestand
+
+SUBLIBRARY:   A254      BS Seminar UFG
+FH     Freihandbereich
+254Z1  Zimmer 113
+
+SUBLIBRARY:   A255      BS IPNA
+PR     Präsenzbestand
+255GE  Geoarchäologie
+
+SUBLIBRARY:   A256      BL Römerstadt
+PR     Präsenzbestand
+256AA  Ausgrabung
+256RT  Restaurierungen/Technischer Dienst
+
+SUBLIBRARY:   A258      BS Schw. Inst. f. Volkskunde
+LS     Lesesaal
+MAG    Magazin
+
+SUBLIBRARY:   A259      BS Seminar Kulturwissenschaft
+LS     Lesesaal
+MAG    Magazin
+
+SUBLIBRARY:   A260      BS Uni-Zahnmedizin
+FH     Freihandbereich
+MAG    Magazin
+260CH  Chirurgie
+260KF  Kieferorthopädie
+260PE  Paradontologie
+260PR  Prothetik
+260PZ  Präventivmedizin/Mikrobiologie
+260WT  Werkstoffwissenschaft
+
+SUBLIBRARY:   A264      BS Programm MGU
+FH     Freihandbereich
+
+SUBLIBRARY:   A266      BS Europainstitut
+FH     Freihandbereich
+
+SUBLIBRARY:   A268      BS NLU Abt. Biologie
+FH     Freihandbereich
+
+SUBLIBRARY:   A274      BS Felix Platter-Spital
+FH     Freihandbereich
+
+SUBLIBRARY:   A276      BS Universitäts-Frauenklinik
+PR     Präsenzbestand
+
+SUBLIBRARY:   A278      BL Kantonsspital Bruderholz
+PR     Präsenzbestand
+
+SUBLIBRARY:   A280      BS Kinderspital
+FH     Freihandbereich
+PB     Pflegebibliothek Bruderholz
+280AB  Anästhesie Bruderholz
+280BB  Bibliothek Bruderholz
+280CB  Chirurgie Bruderholz
+280CR  Chirurgie Römergasse
+280GR  Genetik Römergasse
+280HR  Hämatologie Römergasse
+280OB  Orthopädie Bruderholz
+280SR  Stoffwechsel Römergasse
+
+SUBLIBRARY:   A281      BS UPK - KJPK
+FH     Freihandbereich
+
+SUBLIBRARY:   A282      BS Augenklinik
+FH     Freihandbereich
+PR     Präsenzbestand
+
+SUBLIBRARY:   A284      BS UPK
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+284PS  Pflegebibliothek
+
+SUBLIBRARY:   A288      BS Inst. f. Spital-Pharmazie
+FH     Freihandbereich
+PR     Präsenzbestand
+288QK  Qualitätskontrolle
+
+SUBLIBRARY:   A290      BS Volkszahnklinik
+FH     Freihandbereich
+
+SUBLIBRARY:   A296      BS Bibliothek für Gestaltung
+LS     Lesesaal
+MAG    Magazin
+RARA   Rara
+296LM  LS-Magazin
+
+SUBLIBRARY:   A298      BS Historisches Museum
+PR     Präsenzbestand
+298AR  Archäologie
+298AU  Ausstellung
+298DI  Direktion
+298KD  Kunstdenkmäler
+298M1  Magazin 1
+298M2  Magazin 2
+298M3  Magazin 3
+298M4  Sammlungsmagazin
+298MA  Magazin Auktionskataloge
+298MK  Münzkabinett
+298MM  Musik-Museum
+298MP  Museumspädagogik
+298R1  Restaurierung 1
+298R2  Restaurierung 2
+298SE  Sekretariat
+
+SUBLIBRARY:   A300      BS Kunstmuseum
+FH     Freihandbereich
+LS     Lesesaal
+MAG    Magazin
+
+SUBLIBRARY:   A301      BS Schaulager
+PR     Präsenzbestand
+
+SUBLIBRARY:   A302      BS Naturhistorisches Museum
+MAG    Magazin
+
+SUBLIBRARY:   A304      BS Pharmazie-Hist. Museum
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A306      BS Schweizerisches Sportmuseum
+FH     Freihandbereich
+
+SUBLIBRARY:   A310      BS Museum der Kulturen
+LS     Lesesaal
+MAG    Magazin
+310KB  KBS Schindler-Holzapfel
+
+SUBLIBRARY:   A312      BS Karikatur & Cartoon Museum
+FH     Freihandbereich
+
+SUBLIBRARY:   A316      BS Basler AfrikaBibliographien
+FH     Freihandbereich
+
+SUBLIBRARY:   A320      BS Karl Barth-Archiv
+PR     Präsenzbestand
+320DE  Dedikationsexemplare
+
+SUBLIBRARY:   A322      BS Schweiz. Tropeninstitut
+FH     Freihandbereich
+322AR  Archiv
+
+SUBLIBRARY:   A324      BS Basler Vers.-Gesellschaft
+FH     Freihandbereich
+
+SUBLIBRARY:   A326      BS Kunsthalle
+FH     Freihandbereich
+
+SUBLIBRARY:   A328      FHNW Architektur Bau Geomantik
+FH     Freihandbereich
+
+SUBLIBRARY:   A330      FHNW Pädagogik
+330BF  Berufs- und Frauenfachschule
+330BL  Liestal
+330BS  Basel
+330DL  OS Drei Linden
+330GB  Gymnasium Bäumlihof
+330HI  DNZ Hirzbrunnen
+330KL  Klassensatz
+330MA  SLA-Bibliothek im Mathematischen Institut
+330VO  Turnhalle Vogelsang
+
+SUBLIBRARY:   A332      BS Musik-Akademie
+FH     Freihandbereich
+LS     Lesesaal
+MAG    Magazin
+RARA   Rara
+332ES  Elektronisches Studio
+332JS  Abteilung Jazz
+332MB  Musik & Bewegung
+332SC  Schola Cantorum
+332SM  Schulmusik
+332VR  Verschiedene Standorte
+
+SUBLIBRARY:   A334      FHNW Soziale Arbeit
+FH     Freihandbereich
+MAG    Magazin
+
+SUBLIBRARY:   A342      BS Pädag.Dokumentationsstelle
+FH     Freihandbereich
+342AR  Archiv
+
+SUBLIBRARY:   A344      BS Schulpsych. Dienst
+FH     Freihandbereich
+344AR  Archiv
+
+SUBLIBRARY:   A348      BS Staatsarchiv
+FH     Freihandbereich
+MAG    Magazin
+
+SUBLIBRARY:   A350      BS SKUBA Zeitungsecke
+FH     Freihandbereich
+
+SUBLIBRARY:   A351      BS Bildungszentrum Gesundheit
+FH     Freihandbereich
+351AR  Archiv
+351BL  Mediothek BfG BL
+
+SUBLIBRARY:   A352      FHNW Wirtschaft Basel
+FH     Freihandbereich
+352FI  110: HA Finance
+352GS  70: HA Geistes- und Sozialwissenschaften
+352HB  20: HA Bibliothek
+352IA  40: HA IAB
+352IB  120: HA IBM
+352IM  60: HA IMANENT
+352IT  90: HA Informations- und Technologiemanagement
+352MA  80: HA Marketing
+352MN  130: HA Mathematik und Naturwissenschaften
+352OP  100: HA Organisation und Personal
+352RC  30: HA Rechnungswesen und Controlling
+352VW  50: HA Verwaltung
+
+SUBLIBRARY:   A353      BS Departement Informatik
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A354      BS Zentrum Gender Studies
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A355      BS Gesellschaft f. Museologie
+MAG    Magazin
+355MD  Magazin (Bestand Museumsdienste BS)
+
+SUBLIBRARY:   A356      BS Inst. f. Medienwissenschaft
+PR     Präsenzbestand
+356MA  Medienarchiv
+
+SUBLIBRARY:   A357      BS Bethesda-Schulen
+PR     Präsenzbestand
+357LB  Lehrerbibliothek
+357SB  Schülerbibliothek
+
+SUBLIBRARY:   A358      BS Wissenschaftsforschung
+PR     Präsenzbestand
+
+SUBLIBRARY:   A359      BS Angewandte Ethik
+PR     Präsenzbestand
+
+SUBLIBRARY:   A360      BL Gleichstellung
+FH     Freihandbereich
+PR     Präsenzbestand
+360DO  Dokumentensammlung
+
+SUBLIBRARY:   A361      BS Sprachenzentrum
+PR     Präsenzbestand
+
+SUBLIBRARY:   A362      BS Jüdische Studien
+PR     Präsenzbestand
+362P   Studienraum Parterre
+362S1  Seminarraum 1. Stock
+362S2  Vorzimmer Prof. 2. Stock
+
+SUBLIBRARY:   A363      BS Kulturmanagement
+PR     Präsenzbestand
+
+SUBLIBRARY:   A364      BS Medizin Lernzentrum
+PR     Präsenzbestand
+
+SUBLIBRARY:   A365      BS Sozial- / Präventivmedizin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A366      BS Studienberatung
+FH     Freihandbereich
+PR     Präsenzbestand
+
+SUBLIBRARY:   A367      BS eikones
+PR     Präsenzbestand
+
+SUBLIBRARY:   A368      BS Uni Chancengleichheit
+PR     Präsenzbestand
+
+SUBLIBRARY:   A369      BS Sammlung Morel
+PR     Präsenzbestand
+
+SUBLIBRARY:   A370      BS Goetheanum
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   B400      BE UB ZB
+400FH  Freihandbibliothek
+400IL  Nehmende Fernleihe
+400M   Magazin
+400M1  Magazin (U1)
+400M2  Magazin (U2)
+400M3  Magazin (U3)
+400M4  Magazin (U4)
+400M5  Magazin (U5)
+400MH  Depot Haller 1 (2 Arbeitstage Wartefrist)
+400MI  Depot Haller 2 (2 Arbeitstage Wartefrist)
+400MK  Magazin (U1 Dissenkeller)
+400MS  Depot Hallerstrasse (Archiv Stämpfli)
+400MW  Magazin (O4 West)
+400O3  Magazin (O3)
+400O4  Magazin (O4)
+400PA  Lesesaal OG (Schultheissensaal)
+400PK  Katalogsaal
+400PM  Lesesaal-Magazin
+400PR  Zeitungen Cafeteria
+400PU  Lesesaal UG
+400RY  Sammlung Ryhiner
+400X1  Büro Sachkatalog (O207)
+400X2  Büro Direktion (O206)
+400X3  Büro Sachkatalog (O201)
+400X4  Büro Sachkatalog (O202)
+400X5  Büro Sachkatalog (O203)
+400X6  Büro Sachkatalog (O204)
+400X7  Büro Sachkatalog (W101)
+400X8  Büro Fernleihe (O107)
+400X9  Büro Fernleihe (O107a)
+400XA  Büro Sachkatalog (W201)
+400XI  Regal Infotheke
+400Y1  Büro Direktion (O214)
+400Y2  Büro Direktion (O213)
+400Y3  Büro Direktion (O215)
+400Y4  Büro Direktion (O115)
+400Y5  Büro Benutzung (O111)
+400Y7  Büro Buchbinderei (O307)
+400Y8  Büro Signierstelle (O311)
+400YE  Büro EDV (W407)
+400Z1  Büro Formalkatalog (O212)
+400Z2  Büro Formalkatalog (O314)
+400Z4  Büro Ausleihe FHB (O007)
+400Z5  Büro (W202)
+400Z6  Büro Sachkatalog (W204)
+400Z7  Büro Sachkatalog (W205)
+400Z8  Büro Müga 68
+400ZA  Büro Altbestände (W101)
+400ZE  Büro Erwerbung (O113)
+400ZR  Dokumentation Restaurierung (Flur)
+400ZZ  Büro Zeitschriften (O114)
+
+SUBLIBRARY:   B401      BE UB ZB: Musik CD/DVD
+401FC  Freihandbibliothek CD/DVD Musik (Jahresgebühr Fr. 30.-)
+
+SUBLIBRARY:   B402      BE UB ZB: Rorschach-Archiv
+402MD  Bibliothek
+402NL  Nachlässe
+
+SUBLIBRARY:   B405      BE UB Online
+405CD  CD-Server nur im Uninetz zugänglich. Links siehe unter 'Externe Verbindung'
+405DB  Datenbank nur im Uninetz zugänglich. Links siehe unter 'Externe Verbindung'
+405OL  Online. Links siehe unter 'Externe Verbindung'
+405VT  Volltext nur im Uninetz zugänglich. Links siehe unter 'Externe Verbindung'
+
+SUBLIBRARY:   B410      BE UB BTO
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+410IL  Nehmende Fernleihe
+410VW  Verwaltung
+
+SUBLIBRARY:   B415      BE UB SOB
+FH     Freihandbereich
+LS     Lesesaal
+415DB  Davoser Bibliothek
+415IL  Nehmende Fernleihe
+415U1  Magazin 1. UG
+415U2  Magazin 2. UG
+415U3  Magazin 3. UG
+415V1  Verwaltung
+415V2  Leitung
+415V3  Buchbearbeitung
+415XX  Magazin
+415ZT  Zeitungen
+
+SUBLIBRARY:   B420      BE BFH HKB Musikbibliothek
+420BM  Bibliotheksmagazin / Magasin
+420BN  Bibliotheksmagazin / Magasin
+420CD  CD-Galerie / Galerie CD
+420DM  Depot FrauenMusikForum / Forum Musique et Femmes
+420DN  Depot FrauenMusikForum / Forum Musique et Femmes
+420FN  Freihandaufstellung Noten / Partitions: libre-accès
+420GA  Präsenzbibliothek Galerie / Galerie: Bibliothèque de consultation
+420HB  Präsenzbibliothek Galerie / Galerie: Bibliothèque de consultation
+420MN  Bibliotheksmagazin / Magasin
+420MO  Bibliotheksmagazin / Magasin
+420RA  Bibliotheksmagazin / Magasin
+
+SUBLIBRARY:   B423      BE BFH Wirtschaft, Verwaltung
+423DA  Diplomarbeiten
+423FH  Freihandbereich
+423MA  Magazin
+423ZS  Zeitschriften
+
+SUBLIBRARY:   B424      BE SBB
+424AU  Ausleihe
+424AZ  AZL (Löwenberg)
+424BM  Büchermagazin
+424IT  Informatik
+424LZ  Lesezimmer
+424RG  Rechtsdienst Generalsekretariat
+424RI  Rechtsdienst Infrastruktur
+424RP  Rechtsdienst Personenverkehr
+424ZA  Zeitschriftenartikel. Auskunft erteilt Tel. 0512 / 20 22 12
+424ZM  Zeitschriftenmagazin
+
+SUBLIBRARY:   B425      BE Schule für Gestaltung Bern
+425BZ  Freihandmediothek (Bümpliz)
+425CD  Freihandmediothek CDs (Hauptgebäude Bern)
+425CP  Compactus (Hauptgebäude Bern)
+425FH  Freihandmediothek (Hauptgebäude Bern)
+425FK  Fachklasse Keramik (Hauptgebäude Bern)
+425HL  Handapparat Lehrerschaft (Hauptgebäude Bern)
+425KD  Freihandmediothek Kunstdrucke (Hauptgebäude Bern)
+425ST  Handapparat Lehrerschaft Steinberufe (Schulhaus Enge)
+425VK  Präsenzbibliothek Vorkurs (Schwabstrasse)
+
+SUBLIBRARY:   B427      BE BFH HKB Mediothek GKK
+427BZ  Fachbereich Gestaltung und Kunst
+427EG  Fachbereich Konservierung und Restaurierung
+427YY  Institut für Transdisziplinarität
+
+SUBLIBRARY:   B430      BE GIBB
+430FB  FB-Friedbühl
+430GZ  GZ-Gastgewerbliches Zentrum
+430H   H-Hauptgebäude
+430LH  LH-Lehrhalle
+430SE  ST-Steigerhubel, Dauerleihe Seftigenstr.
+430ST  ST-Steigerhubel
+430V   V-Viktoria
+430XX  Verschiedene Bibliotheksfilialen
+430Z   ZEN-Zentrale Campus
+430Z1  ZEN-Zentrale Campus 1. Obergeschoss
+430Z2  ZEN-Zentrale Campus 2. Obergeschoss
+430ZB  ZEN-Zentrale Campus, UG, Büro
+430ZE  ZEN-Zentrale Campus Erdgeschoss
+430ZK  ZEN-Zentrale Campus, UG, Abgeschlossenes Magazin
+
+SUBLIBRARY:   B431      BE BFH Gesundheit
+431DA  Diplomarbeiten
+431FH  Freihandbereich Bibliothek
+431PE  Präsenzbestand Ernährungsberatung
+431PP  Präsenzbestand Pflege
+431PY  Präsenzbestand Physiotherapie
+431SB  Präsenzbestand Hebammen
+431SE  Skills-Center Ernährungsberatung
+431SH  Skills-Center Hebammen
+431SP  Skills-Center Pflege
+431SY  Skills-Center Physiotherapie
+
+SUBLIBRARY:   B432      BE Swissmedic
+432AC  ATC
+432AT  ATC Tox
+432BA  BTA
+432BM  BTM
+432ER  Erlachstrasse
+432FH  Bibliothek Hallerstrasse (OG1)
+432FM  Bibliothek Hallerstrasse (Magazin)
+432FR  Finanz- und Rechnungswesen
+432GC  GCP
+432IB  IBP
+432IN  Internationales
+432IP  Inspektorate
+432KO  Kommunikation
+432KP  KPA
+432ME  MEP
+432OL  OMCL (Schwarz)
+432OM  OMCL (Erla)
+432OT  OTC
+432PH  Pharmakopöe (Erla OG3)
+432PM  Pharmakopöe (Erla UG1)
+432PO  Personal und Organisation
+432PV  Pharmacovigilance
+432RE  Recht (Erla)
+432TA  TAM
+432ZH  Zeitschriften Hallerstrasse (OG1)
+432ZM  Zentrale Marktüberwachung
+432ZS  Zeitschriften Cafeteria
+
+SUBLIBRARY:   B433      BE Ausbildungszentrum Insel
+433HD  Friedbühlstrasse HöFa, Diplomarbeiten
+433HF  Friedbühlstrasse HöFa
+433RB  Reichenbachstrasse Bibliothek
+433RM  Reichenbachstrasse Mediothek
+433RV  Reichenbachstrasse Videothek
+
+SUBLIBRARY:   B434      BE Staatsarchiv
+434AD  Magazin: Amtsdruckschriften
+434FR  Fotoraum
+434LG  Lesesaal gross
+434LK  Lesesaal klein
+434MB  Magazin: Militärbibliothek
+434MO  Magazin: Bücher und Broschüren
+434PR  Preziosa
+434RA  Restaurierungsatelier
+434ZG  Magazin: Zeitungen
+434ZS  Magazin: Zeitschriften
+
+SUBLIBRARY:   B435      BE Ethnographische Sammlung
+435DE  Depot
+435GF  Compactus Grossformat
+435HB  Handbücher
+435MO  Bibliothek
+435SP  Spezialsammlung
+435ZS  Compactus Zeitschriften
+
+SUBLIBRARY:   B437      MA Magglingen Sportmediathek
+437AU  Ausleihschalter / Guichet du prêt
+437CD  AV-Medien / Doc. audiovisuels
+437DB  Datenbank nur in Magglingen zugänglich. Links siehe unter 'Externe Verbindung'
+437DV  Archiv DVC / Archives DVC
+437FH  Freihand / Libre-accès
+437KM  Karten / Cartes
+437MC  Magazin Compactus / Magasin compactus
+437MF  Mikrofilme / Microfilms
+437PB  Präsenzbestand / Doc. de référence
+437RA  Rara / Livres rares
+437SW  SWI / ISS
+437VC  Videothek Compactus / Vidéothèque Compactus
+437VT  Volltext nur in Magglingen zugänglich. Links siehe unter 'Externe Verbindung'
+437VV  Videothek / Vidéothèque
+437ZH  Magazin / Magasin
+437ZS  Zeitschriften / Revues
+
+SUBLIBRARY:   B440      BE Burgerbibliothek
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   B445      BE Gosteli Archiv
+445AN  Archiv Nachlässe
+445EG  Bücher, Erdgeschoss
+445ME  Mehrfachexemplar, 1. Stock
+445S1  1. Stock
+445S2  2. Stock
+445ZS  Zeitschriften
+
+SUBLIBRARY:   B450      BE Fliegende Katalogisierung
+
+SUBLIBRARY:   B451      BE UNI Universitätsarchiv
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B452      BE FBB
+RARA   Rara
+452AV  AV-Medien
+452BA  Bio Altbestand
+452BL  Bio Lesesaal
+452BM  Biochemie und Molekulare Medizin
+452BS  Sondersammlungen
+452BZ  Bio Zeitschriften
+452GG  Geo Forschung
+452GL  Geo Lesesaal
+452GS  Geo Zeitschriften Sonderstandort
+452GZ  Geo Zeitschriften
+452IA  Anatomisches Institut
+452IB  Institut für  Biochemie
+452IL  Nehmende Fernleihe
+452KA  Geo Atlanten
+452KF  Geo Faltkarten
+452KP  Geo Planokarten
+452LB  Bio Lehrbuchsammlung
+452LG  Geo Lehrbuchsammlung
+452PI  Physiologisches Institut
+452SF  Speicherbibliothek (2 Arbeitstage Wartezeit)
+452SR  Basisbücher Medizin
+452SY  Zoologisches Institut, Abt. Synökologie
+452SZ  Speicherbibliothek (2 Arbeitstage Wartezeit)
+452ZH  Zoologisches Institut, Hasli
+452ZI  Zoologisches Institut, Abt. Entwicklungsbiologie
+
+SUBLIBRARY:   B455      BE UNI IZFG
+FH     Freihandbereich
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B460      BE UNI Erziehungswissenschaft
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+460AM  Archiv Monographien
+460AZ  Archiv Zeitschriften
+460FA  Altbestand Abt. Allg. Paed.
+460IL  Nehmende Fernleihe
+460KL  Klassensatz
+460PA  Permanentapparat
+460SA  Altbestand Abt. Allg. Paed.
+460SL  Speicherbibliothek (3 Arbeitstage Wartefrist)
+460SN  Speicherbibliothek (3 Arbeitstage Wartefrist)
+460SP  Altbestand Abt. Paed. Psych.
+460VI  Vitrine
+460VW  Verwaltung
+
+SUBLIBRARY:   B463      BE UNI Steuerrecht
+FH     Freihandbereich
+SP     Speicherbibliothek
+
+SUBLIBRARY:   B464      BE UNI JFB
+464AR  Archiv
+464FG  Grundlagenfächer
+464FH  Handbücher
+464FO  Öffentliches Recht
+464FP  Privatrecht
+464FS  Strafrecht
+464FW  Wirtschaftsrecht
+464MA  Magazin
+464VW  Verwaltung
+464ZG  Grundlagenfächer, Zeitschriften
+464ZO  Öffentliches Recht, Zeitschriften
+464ZP  Privatrecht, Zeitschriften
+464ZS  Strafrecht, Zeitschriften
+464ZW  Wirtschaftsrecht, Zeitschriften
+
+SUBLIBRARY:   B465      BE JBB
+FH     Freihandbereich
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+465DI  Dissertationen
+
+SUBLIBRARY:   B466      BE UNI Eugen Huber Bibliothek
+FH     Freihandbereich
+MAG    Magazin
+ZSS    Zeitschriften
+466QU  Quellen
+466SO  Sonderdrucke
+
+SUBLIBRARY:   B467      BE UNI Geographisches Institut
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+467AR  Archiv
+467EU  Centre for Development and Environment
+467PE  Bodenkunde
+467SO  Sonderstandorte
+
+SUBLIBRARY:   B470      BE UNI Evangelische Theologie
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+470PH  Praxishilfen
+470PK  Praktisch-theol. Kurs
+470ZA  Zeitschriften Archiv
+
+SUBLIBRARY:   B473      BE UNI Psychologie
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+473AR  Archiv
+473PS  Praxisstelle
+473TE  Testothek
+
+SUBLIBRARY:   B476      BE UNI Englische Sprachen
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B478      BE UNI Sprachwissenschaft
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+478CO  AAL Compactus
+478FH  AAL Freihandbereich
+478ML  AAL Medienlernzentrum
+478NB  Nonbooks
+478ZA  Abgeschlossene Zeitschriften
+478ZS  AAL Zeitschriften
+
+SUBLIBRARY:   B488      BE UNI Slavische Sprachen
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B490      BE UNI Germanistik
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+490VW  Verwaltung
+490ZR  Reihen
+
+SUBLIBRARY:   B492      BE UNI Historisches Institut
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+492AG  Alte Geschichte (PF2)
+492PS  Panzerschrank
+492SE  Seminararb. Alte Geschichte
+492ZA  Zeitschriften Alte Geschichte
+
+SUBLIBRARY:   B494      BE UNI Islamwissenschaft
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+494SO  Sonderstandort
+494ZC  Zeitschriften Compactus
+
+SUBLIBRARY:   B498      BE UNI Romanische Sprachen
+COM    Compactus
+SP     Speicherbibliothek
+498EF  Spanisch Freihandbereich
+498EP  Spanisch Präsenzbestand
+498ES  Spanisch Sonderstandort
+498FF  Französisch: Sprachwiss. Freihandbereich
+498FP  Französisch: Sprachwiss. Präsenzbestand
+498FS  Französisch: Sprachwiss. Sonderstandort
+498IF  Italienisch Freihandbereich
+498IP  Italienisch Präsenzbestand
+498IS  Italienisch Sonderstandorte
+498LF  Französisch: Literaturwiss. Freihandbereich
+498LP  Französisch: Literaturwiss. Präsenzbestand
+498LS  Französisch: Literaturwiss. Sonderstandort
+498RF  Romanische Philologie Freihandbereich
+498RP  Romanische Philologie Präsenzbestand
+498RS  Romanische Philologie Sonderstandort
+
+SUBLIBRARY:   B501      BE UNI Sozialanthropologie
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B503      BE UNI Philosophie
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+503AZ  Abgeschlossene Zeitschriften
+503LZ  Laufende Zeitschriften
+503VI  Vitrine
+
+SUBLIBRARY:   B505      BE UNI Klassische Philologie
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B507      BE UNI Christkathol. Theologie
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B509      BE UNI Religionswissenschaft
+FH     Freihandbereich
+ZSS    Zeitschriften
+509SO  Sonderstandort
+
+SUBLIBRARY:   B511      BE PH Vorschul-/Primarstufe
+FH     Freihandbereich
+MAG    Magazin
+ZSS    Zeitschriften
+511DI  Didaktische Sammlung
+511LE  Lehrbuchsammlung
+511VW  Verwaltung
+
+SUBLIBRARY:   B513      BE Campus Muristalden/PH
+COM    Compactus
+MAG    Magazin
+ZSS    Zeitschriften
+513BF  Belletristik Freihandbereich
+513BI  Bildnerisches Gestalten Handbibliothek
+513BK  Bilderbuch Freihandbereich Kinder
+513CE  Comic Freihandbereich Erwachsene
+513CK  Comic Freihandbereich Kinder
+513HA  Hauswirtschaft Handbibliothek
+513JF  Kinder- und Jugendbuch Freihandbereich
+513MU  Musik Handbibliothek
+513NF  Nonbooks Freihandbereich
+513RE  Religion/Ethik Handbibliothek
+513SF  Sachbuch Freihandbereich
+513SG  Spezialgebiete Freihandbereich
+513SP  Sport Handbibliothek
+513TE  Technisches Gestalten Handbibliothek
+513TX  Textiles Gestalten Handbibliothek
+513VW  Verwaltung
+
+SUBLIBRARY:   B515      BE PH IHP/IWB
+FH     Freihandbereich
+ZSS    Zeitschriften
+515AR  Archiv
+515DA  Diplomarbeiten
+515TS  Testschrank
+515ZA  Archiv Zeitschriften
+
+SUBLIBRARY:   B520      BE Unispitalbibliothek
+FH     Freihandbereich
+MAG    Magazin
+ZSS    Zeitschriften
+520KL  Kliniken/Institute Inselspital
+520KM  Kliniken/Inst. Inselspital, Magazin
+
+SUBLIBRARY:   B521      BE UNI Zahnmed. Kliniken
+FH     Freihandbereich
+ZSS    Zeitschriften
+521AR  Archiv
+521SO  Sonderstandort
+
+SUBLIBRARY:   B523      BE UPD MU
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B525      BE UNI WB Gesundheitswesen
+FH     Freihandbereich
+
+SUBLIBRARY:   B527      BE UNI Sozial/Präventivmed
+FH     Freihandbereich
+ZSS    Zeitschriften
+527AR  Archiv
+527GF  Abteilung Gesundheitsforschung
+
+SUBLIBRARY:   B534      BE UNI Vorderasiat.Archäol.
+FH     Freihandbereich
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B540      BE UNI Vetsuisse Fakultät
+FH     Freihandbereich
+MAG    Magazin
+SP     Speicherbibliothek
+540AR  Archiv
+540KL  Kliniken/Institute
+540KM  Kliniken/Institute Magazin
+
+SUBLIBRARY:   B542      BE UPD WA
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+542DA  Dauerleihe
+542FA  Forensik, Abteilung
+542FB  Forensik, Bibliothek
+542FO  Forschungsabteilung
+
+SUBLIBRARY:   B550      BE UNI Archäol.Mittelmeerraum
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B552      BE UNI Pflanzenwissenschaften
+COM    Compactus
+FH     Freihandbereich
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+552FU  Fuchsbibliothek
+552HO  Gartenbibliothek
+552VW  Verwaltung
+
+SUBLIBRARY:   B554      BE UNI Chemische Institute
+FH     Freihandbereich
+ZSS    Zeitschriften
+554BI  Biochemie
+554EL  Elektrochemie
+554NM  NMR
+554SO  Sonderstandorte
+554U3  Magazin U3
+
+SUBLIBRARY:   B556      BE UNI Pharmakol. Institut
+FH     Freihandbereich
+
+SUBLIBRARY:   B557      BE UNI Musikwissenschaft
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B559      BE Naturhistorisches Museum
+FH     Freihandbereich
+559SP  Spezialliteratur
+
+SUBLIBRARY:   B561      BE Historisches Museum
+561MK  Münzkabinett (Eigentum StUB)
+
+SUBLIBRARY:   B563      BE UNI Sozialwissenschaften
+MAG    Magazin
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+563IL  Nehmende Fernleihe
+563MF  Medienwissenschaften Freihandbereich
+563MZ  Magazin Zeitschriften
+563PA  Permanentapparat
+563PF  Politologie Freihandbereich
+563SF  Soziologie Freihandbereich
+563VI  Vitrine
+
+SUBLIBRARY:   B565      BE UNI Kunstgeschichte/Museum
+SP     Speicherbibliothek
+565AR  Archiv
+565EX  Extern
+565F5  5. Untergeschoss
+565F6  6. Untergeschoss
+
+SUBLIBRARY:   B569      BE UNI Betriebswirtschaft
+SP     Speicherbibliothek
+569FF  IFM Freihandbereich
+569FZ  IFM Zeitschriften
+569IF  IiI Freihandbereich
+569IZ  IiI Zeitschriften
+569MF  IMB Freihandbereich
+569MZ  IMB Zeitschriften
+569OF  IOP Freihandbereich
+569OZ  IOP Zeitschriften
+569SM  ISR Magazin
+569SS  ISR Sonderstandorte
+569UF  IUC Freihandbereich
+569UZ  IUC Zeitschriften
+
+SUBLIBRARY:   B571      BE UNI Weiterbildung
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B573      BE UNI Brevet secondaire Biel
+PR     Präsenzbestand
+
+SUBLIBRARY:   B575      BE UNI Ur- und Frühgeschichte
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B577      BE UNI Theaterwissenschaft
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B579      BE Schweiz. Theatersammlung
+LS     Lesesaal
+ZSS    Zeitschriften
+579AM  Altes Magazin
+579NM  Neues Magazin
+579VP  Veranstalterpublikationen
+
+SUBLIBRARY:   B581      BE UNI Allgemeine Oekologie
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B583      BE UNI Medizingeschichte
+COM    Compactus
+MAG    Magazin
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+583SA  Separatasammlungen
+583SM  Sondermagazin
+
+SUBLIBRARY:   B589      BE UNI Volkswirtschaft
+FH     Freihandbereich
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+589AR  Archiv
+589DO  Dokumentationen
+589FC  FIF Compactus
+589FF  FIF Freihandbereich
+589FZ  FIF Zeitschriften
+589ME  Medien
+589RE  Nachschlagewerke
+589ZT  Zeitungen
+
+SUBLIBRARY:   B591      BE UNI Sportwissenschaft
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B593      BE BFH Soziale Arbeit
+FH     Freihandbereich
+PR     Präsenzbestand
+ZSS    Zeitschriften
+593SO  Sonderstandort
+
+SUBLIBRARY:   B595      BE UNI Wirtschaftsinformatik
+FH     Freihandbereich
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B597      BE UNI Informatik/Angew.Math.
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+597CG  Gruppe Computergeometrie und Graphik
+597KI  Bildanalyse und künstliche Intelligenz
+597RV  Gruppe Rechnernetze und verteilte Systeme
+597SC  Gruppe Software Composition
+597TI  Gruppe Theoretische Informatik und Logik
+
+SUBLIBRARY:   B599      BE UNI World Trade Institute
+FH     Freihandbereich
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   Z900      ***
+BAVB   Verbund Basel
+900KE  kein Exemplar vorhanden
+
+SUBLIBRARY:   Z998      ***
+998    -
+998TH  Siehe Standort der Zeitschrift über 'Gehe zu'
+

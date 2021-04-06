@@ -1,0 +1,150 @@
+# Bibliothekscodes IDS Basel Bern
+# produziert mit http://alephtest.unibas.ch/dirlist/u/local/sublib/sublibs.pl
+#
+# Stand: Tue Apr  6 16:38:58 2021
+#
+A100    Basel UB Hauptbibliothek
+A110    Basel UB Störkatalogisierung
+A115    Basel UB Basler Bibliographie
+A116    Basler Buchdruckerkatalog
+A117    Basel Bernoulli Briefwechsel
+A125    Basel UB Wirtschaft - SWA
+A126    Basel UB Wirtschaft SWA: E-ZAS
+A130    Basel Bibliothek Altertum
+A140    Basel UB Medizin
+A145    Basel Online
+A149    Basel UB
+A150    Solothurn Zentralbibliothek
+A152    Basel Mission 21
+A154    Basel Botanische Gesellschaft
+A160    Basel Israelitische Gemeinde
+A164    Basel Paul Sacher Stiftung
+A170    Basel UB Religion
+A178    Basel Anatomisches Institut
+A186    Basel Biozentrum
+A188    Basel Bot.Inst. - Ökologie
+A189    Basel Bot.Inst. - Physiologie
+A190    Basel Deutsches Seminar
+A191    Basel Seminar für Nordistik
+A192    Basel Englisches Seminar
+A196    Basel Inst. f. Rechtsmedizin
+A198    Basel DUW Geographie
+A200    Basel DUW Geologie
+A202    Basel Departement Geschichte
+A204    Basel Departement Physik
+A206    Basel Fakultät Psychologie
+A208    Basel Juristische Fakultät
+A216    Basel DMI
+A220    Basel Bio- und Medizinethik
+A222    Basel Inst. f. med. Mikrobio.
+A226    Basel Musikwiss. Seminar
+A228    Basel Departement Chemie
+A230    Basel Bibliothek Maiengasse
+A232    Basel Institut für Pathologie
+A235    Basel Pharmazeutische Biologie
+A238    Basel Philosophisches Seminar
+A245    Basel Zentrum Afrikastudien
+A246    Basel Slavisches Seminar
+A248    Basel Seminar für Soziologie
+A250    Basel DSBG
+A251    Basel Frey-Grynäisches Inst.
+A253    Basel Arch. Bodenforschung
+A255    Basel IPNA
+A256    Augst Augusta Raurica
+A258    Basel Volkskunde
+A259    Basel Sem. Kulturwissenschaft
+A260    Basel UB Rosental
+A264    Basel Bibliothek MSD
+A265    Basel Lehre
+A266    Basel Europainstitut
+A274    Basel Felix Platter-Spital
+A276    Basel Uni-Frauenklinik
+A278    Liestal Kantonsspital BL
+A280    Basel Kinderspital
+A282    Basel Augenklinik
+A286    Basel Universitätsspital
+A288    Basel Spital-Pharmazie
+A296    Basel Bibliothek f. Gestaltung
+A298    Basel Historisches Museum
+A300    Basel Kunstmuseum
+A301    Basel Schaulager
+A302    Basel Naturhistorisches Museum
+A304    Basel Pharmaziemuseum
+A310    Basel Museum der Kulturen
+A316    Basel Basler Afrika Bibliogr.
+A320    Basel Karl Barth-Archiv
+A322    Basel Swiss TPH
+A326    Basel Kunsthalle
+A332    Basel Musik-Akademie
+A342    Basel Pädagogisches Zentrum
+A344    Basel Schulpsych. Dienst
+A348    Basel Staatsarchiv
+A351    Münchenstein Mediothek BZG
+A354    Basel Zentrum Gender Studies
+A356    Basel Seminar f. Medienwiss.
+A360    Liestal Gleichstellung
+A361    Basel Sprachenzentrum
+A363    Basel Kulturmanagement
+A366    Basel Studienberatung
+A368    Basel Uni Diversity
+A369    Basel Sammlung Morel
+A370    Dornach Goetheanum
+A371    Basel KUG
+A373    Basel CEPS
+A374    Dornach Rudolf Steiner Archiv
+A380    Beromünster Stift
+A381    Frauenfeld KB Thurgau
+A382    Zofingen SB
+AFREE   Basel Online. Frei zugänglich
+AKB     Aarau Kantonsbibl. (CHF 5.-)
+B400    Bern UB Speichermagazin
+B404    Bern UB Münstergasse
+B405    Bern UB Online
+B406    Bildungszentrum Pflege Online
+B407    Zollikofen EHB Online
+B410    Bern UB Unitobler
+B412    Bern UB Berner Bibliografie
+B415    Bern UB SOB
+B418    Zollikofen EHB
+B420    Bern BFH HKB Musikbibliothek
+B424    Windisch SBB Historic
+B425    Bern Bibliothek f. Gestaltung
+B429    Bern MfK/PTT-Archiv
+B432    Bern Swissmedic
+B433    Bern Bildungszentrum Pflege
+B434    Bern Staatsarchiv
+B437    Magglingen Sportmediathek
+B439    Thun Bildungszentrum Pflege
+B440    Bern Burgerbibliothek
+B445    Worblaufen Gosteli-Stiftung
+B452    Bern UB Medizin
+B464    Bern UB JFB
+B465    Bern UB JBB
+B466    Bern UB Eugen Huber Bibliothek
+B467    Bern UB Geographie
+B500    Bern UB vonRoll
+B513    Bern Campus Muristalden
+B517    Bern PH Institut Medienbildung
+B521    Bern UB Zahnmedizin
+B527    Bern UB Public Health
+B531    Bern UB Medizinische Lehre
+B540    Bern UB Vetsuisse
+B542    Bern UPD WA
+B552    Bern UB Pflanzenwissensch.
+B554    Bern UB Muesmatt
+B555    Bern UB Mittelstrasse
+B559    Bern Naturhistorisches Museum
+B569    Bern UB Betriebswirtschaft
+B571    Bern UB Weiterbildung (ZUW)
+B583    Bern UB Medizingeschichte
+B589    Bern UB Wirtschaft
+B591    Bern UB Sportwissenschaft
+B599    Bern UB World Trade Institute
+BFREE   Bern Online. Frei zugänglich
+BSSBI   Basel Externes Magazin
+BSSBK   Speicherbibliothek
+FREE    Online. Frei zugänglich.
+SGARK   Trogen KB AR
+SGKBV   St. Gallen Vadiana
+SGSTI   St. Gallen Stiftsbibliothek
+SOSBI   Solothurn Zentralbibliothek

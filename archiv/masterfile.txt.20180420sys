@@ -1,0 +1,1663 @@
+# IDS Basel/Bern - masterfile.txt
+#
+# Uebersicht Sublibraries, Collections
+# -----------------------------------
+#
+# ERKLAERUNG:
+#
+# Sublibrary:
+# Code: max 4 Stellen; A=Basel, B=Bern, Z=extern
+# Bezeichnung max 30 Stellen:
+#---+----|----+----|----+----|
+#
+# Collection:
+# Code: max 5 Stellen
+# Bezeichnung max. 80 Stellen
+#---+----|----+----|----+----|----+----|----+----|----+----|----+----|----+----|
+#
+# RESERVIERTE BEREICHE
+#
+# A100-A140 BS UB und Filialen
+# A150-A399 BS Verbund
+# B400-B419 BE StUB und Filialen
+# B420-B449 BE betreut von StUB
+# B450-B699 BE Uni
+# Z900-Z999 [kein Exemplar nachgewiesen]
+# --------------------------------------------------------
+# generiert: 17.04.2018  14:51:41
+# --------------------------------------------------------
+SUBLIBRARY:   A100      Basel UB Hauptbibliothek
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A100
+LS     Lesesaal
+MAG    Magazin
+100FG  Freihandmagazin, vor 1976 Magazin
+100FM  Freihandmagazin
+100HP  Handbibliothek Personal
+100IL  Nehmende Fernleihe
+100IN  Informationszentrum
+100KS  Kartensammlung
+100MR  Externes Magazin (2 Arbeitstage Wartefrist)
+100PM  Bestandesverschiebung, nicht zugänglich
+100VR  verschiedene Standorte
+100ZG  Zeitschriftenmagazin, vor 1900 Magazin
+100ZK  Magazin
+100ZL  Zeitschriftenlesesaal
+100ZM  Zeitschriftenmagazin
+102G   Handschriftenmagazin
+102K   Handschriftenmagazin
+102LI  Handschriftenmagazin
+102LN  Handschriftenmagazin
+102N   Handschriftenmagazin
+102P   Handschriftenmagazin
+102S   Sonderlesesaal
+102SP  Pal-Sammlung
+103DO  Digitaler Speicher
+105AM  Amerbach Edition
+105BE  Bernoulli-Euler-Zentrum
+105BU  Burckhardt Edition
+105EH  Emma Herwegh-Edition (3 Arbeitstage Wartefrist)
+105LU  Lucan-Projekt (3 Arbeitstage Wartefrist)
+105NI  Nietzsche-Edition (3 Arbeitstage Wartefrist)
+
+SUBLIBRARY:   A110      Basel UB Störkatalogisierung
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+
+SUBLIBRARY:   A115      Basel UB Basler Bibliographie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+115BB  Bibliografie-Eintrag. Wählen Sie ein anderes Exemplar (sofern vorhanden)
+115HO  Bibliografie-Eintrag
+
+SUBLIBRARY:   A116      Basler Buchdruckerkatalog
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+116B1  Bibliografie-Eintrag. Kein Exemplar vorhanden
+116B2  Bibliografie-Eintrag
+
+SUBLIBRARY:   A125      Basel UB Wirtschaft - SWA
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A100
+OL     Online. Link siehe unter 'Online'
+125DO  Magazin
+125F1  Freihand 1
+125F2  Freihand 2
+125F3  Freihand 3
+125IL  Nehmende Fernleihe
+125MA  Magazin
+125MM  Magazin
+125MZ  Magazin
+125SE  Serien
+125SL  Sonderlesesaal
+125ST  Magazin
+125SW  Magazin SWA
+125TH  Theke
+125VD  Freihandbereich, online, teilweise Magazin
+125VR  Verschiedene Standorte
+125ZK  Magazin
+125ZS  Zeitschriften-Lesesaal
+
+SUBLIBRARY:   A126      Basel UB Wirtschaft SWA: E-ZAS
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+
+SUBLIBRARY:   A130      Basel Bibliothek Altertum
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A131
+130FB  Freihandbibliothek
+130FM  Freihandmagazin
+130HO  Büro 307 Homer-Kommentar
+130L1  Forschungstrakt 1. OG
+130L2  Forschungstrakt 2. OG
+130L3  Forschungstrakt 3. OG
+130MR  Magazin (2 Arbeitstage Wartefrist)
+130PE  Büro 310 Präsenzbibliothek "Byzantine/early Arab Egypt"
+130PP  Büro 303 Präsenzbibliothek Papyrologie
+130VR  verschiedene Standorte
+130ZR  Zeitschriftenraum (026)
+
+SUBLIBRARY:   A131      Basel Bibliothek Altertum
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A131
+KE     Kein Exemplar vorhanden
+VR     Verschiedene Standorte
+131FB  Freihandbibliothek
+131FM  Freihandmagazin
+131HO  Büro 307 Homer-Kommentar
+131L1  Forschungstrakt 1. OG
+131L2  Forschungstrakt 2. OG
+131L3  Forschungstrakt 3. OG
+131MR  Magazin
+131PE  Büro 310 Präsenzbibliothek "Byzantine/early Arab Egypt"
+131PP  Büro 303 Präsenzbibliothek Papyrologie
+131S1  Büro 111 Ägyptologie
+131S2  Büro 112 UFG
+131S3  Büro 202 IDG
+131S4  Büro 303 Alte Geschichte
+
+SUBLIBRARY:   A140      Basel UB Medizin
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A140
+FH     Freihandbereich
+140FZ  Freihandbereich, Zeitschriften
+140IL  Nehmende Fernleihe
+140TK  Theke
+140ZH  Zeitschriftenmagazin, laufender Jahrgang Freihandbereich
+140ZK  Magazin
+140ZM  Zeitschriftenmagazin
+250OG  Freihandbereich
+250UG  Freihandmagazin UG
+250ZS  Freihandbereich, Zeitschriften
+
+SUBLIBRARY:   A145      Basel Online
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+OL     Online. Link siehe unter 'Online'
+145CD  CD-Server nur im Uninetz zugänglich. Link siehe unter 'Online'
+145DB  Datenbank nur im Uninetz zugänglich. Link siehe unter 'Online'
+145LE  Link siehe Einzelbände
+145VT  Volltext nur im Uninetz zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   A150      Solothurn Zentralbibliothek
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+MAG    Magazin
+150FH  Freihand
+150KJ  Kinder- und Jugendabteilung
+150LS  Lesesaalbestand
+150MU  Musikabteilung
+150MV  Magazin, nicht ausleihbar
+150RA  Magazin Rara
+150SB  Solothurn Speicherbibliothek
+150ZS  Auslage Zeitschriften
+
+SUBLIBRARY:   A152      Basel Mission 21
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A152
+FH     Freihandbereich
+MAG    Magazin
+152KG  Magazin 1
+
+SUBLIBRARY:   A154      Basel Botanische Gesellschaft
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+154FH  Bibliothek BBG
+
+SUBLIBRARY:   A160      Basel Israelitische Gemeinde
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A160
+FH     Freihandbereich
+
+SUBLIBRARY:   A164      Basel Paul Sacher Stiftung
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+VR     Verschiedene Standorte
+
+SUBLIBRARY:   A166      Basel Pro Natura
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+PR     Präsenzbestand
+166UB  Büro 118
+166VT  Volltext nur für Pro Natura Basel zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   A168      Basel Bibliothek Altertum AS
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A131
+VR     Verschiedene Standorte
+131L1  Forschungstrakt 1. OG
+131L2  Forschungstrakt 2. OG
+131L3  Forschungstrakt 3. OG
+168AS  Archiv Archäologie Schweiz
+168FB  Freihandbibliothek
+168FM  Freihandmagazin
+
+SUBLIBRARY:   A178      Basel Anatomisches Institut
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+ZSS    Zeitschriften
+178RA  Rara
+
+SUBLIBRARY:   A186      Basel Biozentrum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+MAG    Magazin
+186B1  Biozentrum 1. Stock 
+186B2  Biozentrum 2. Stock 
+186B3  Biozentrum 3. Stock 
+186B4  Biozentrum 4. Stock 
+186B5  Biozentrum 5. Stock 
+186B6  Biozentrum 6. Stock
+186B7  Biozentrum 7. Stock 
+186P2  Pharmazentrum 2. Stock 
+186P3  Pharmazentrum 3. Stock
+186P4  Pharmazentrum 4. Stock
+186P5  Pharmazentrum 5. Stock 
+186P6  Pharmazentrum 6. Stock 
+186P7  Pharmazentrum 7. Stock 
+186ZM  Zentrum für Mikroskopie
+
+SUBLIBRARY:   A188      Basel Bot.Inst. - Ökologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+RARA   Rara
+188RE  Sammlung Renz
+
+SUBLIBRARY:   A189      Basel Bot.Inst. - Physiologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A190      Basel Deutsches Seminar
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+FHM    Freihandmagazin
+KE     Kein Exemplar vorhanden
+VR     Verschiedene Standorte
+190B1  Büro 301
+190B2  Büro 220
+190B3  Büro 212
+190BB  Bibliotheksbüro
+190RA  Rara
+
+SUBLIBRARY:   A191      Basel Seminar für Nordistik
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+KE     Kein Exemplar vorhanden
+VR     Verschiedene Standorte
+191B4  Büro 004
+191H6  Halle 060
+191S3  Seminarraum 003
+
+SUBLIBRARY:   A192      Basel Englisches Seminar
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A192
+FH     Freihandbereich
+VR     Verschiedene Standorte
+19212  Room 12 (1. Stock)
+19213  Room 13 (HiWis)
+19216  Room 16 (HiWis)
+19224  Room 24
+192N4  Nadelberg 4, Haus B (1. Stock)
+192P1   Room 26a (Prof.)
+192P2  Room 26b (Prof.)
+192P3  Room 27a (Prof.)
+192V1  Veranda (1. Stock)
+192VE  Veranda (2. Stock)
+
+SUBLIBRARY:   A196      Basel Inst. f. Rechtsmedizin
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A198      Basel Geographisches Institut
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A198
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+VR     Verschiedene Standorte
+198KS  Kartensammlung
+198ME  Meteorol./Klimaökologie, Freihandbereich
+198NL  NLU-Biogeographie, St. Johannsvorstadt, Freihandbereich
+
+SUBLIBRARY:   A200      Basel Geol. pal. Institut
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A201      Basel Umweltgeowissenschaften
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+201KU  Kuppel
+
+SUBLIBRARY:   A202      Basel Departement Geschichte
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+202FM  Freihandmagazin
+
+SUBLIBRARY:   A204      Basel Departement Physik
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+204AS  Handbibliothek Astronomie
+204R3  Raum 3.12
+
+SUBLIBRARY:   A206      Basel Fakultät Psychologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+206AP  Abteilung AP 
+206BB  Bürostandort
+206CD  Abteilung CDS 
+206EC  Abteilung EP
+206EP  Abteilung EPP
+206KP  Abteilungen KPE + KPP
+206KT  Abteilung KPPT
+206SW  Abteilung SWP
+206ZE  ZEPD
+
+SUBLIBRARY:   A208      Basel Juristische Fakultät
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16): INT | Oeffnungszeiten (tab17): A208
+KE     Kein Exemplar vorhanden
+LS     Lesesaal
+RARA   Rara
+VR     Verschiedene Standorte
+208B1  Basisliteratur (1. OG)
+208B2  Basisliteratur (2. OG)
+208FO  FB öff. Recht (nicht zugänglich)
+208FP  FB Privatrecht (nicht zugänglich)
+208FS  FB Strafrecht (nicht zugänglich)
+208H0  HB Studiendekanat (nicht zugänglich)
+208H1  HB 1 (nicht zugänglich)
+208H2  HB 2 (nicht zugänglich)
+208H3  HB 3 (nicht zugänglich)
+208H4  HB 4 (nicht zugänglich)
+208H5  HB 5 (nicht zugänglich)
+208H6  HB 6 (nicht zugänglich)
+208H7  HB 7 (nicht zugänglich)
+208H8  HB 8 (nicht zugänglich)
+208H9  HB 9 (nicht zugänglich)
+208HA  HB 10 (nicht zugänglich)
+208HB  HB 11 (nicht zugänglich)
+208HC  HB 12 (nicht zugänglich)
+208HD  HB 13 (nicht zugänglich)
+208HE  HB 14 (nicht zugänglich)
+208HF  HB 15 (nicht zugänglich)
+208HG  HB 16 (nicht zugänglich)
+208HH  HB 17 (nicht zugänglich)
+208HI  HB 18 (nicht zugänglich)
+208HK  HB 19 (nicht zugänglich)
+208HL  HB 20 (nicht zugänglich)
+208HM  HB 21 (nicht zugänglich)
+208HN  HB 22 (nicht zugänglich)
+208HO  HB 23 (nicht zugänglich)
+208HP  HB 24 (nicht zugänglich)
+208M1  Magazin 1
+208M2  Magazin 2
+208M3  Magazin 3
+208M4  Magazin 4
+
+SUBLIBRARY:   A214      Basel Kantonales Laboratorium
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+214KS  Kontrollstelle für Chemie-  und Biosicherheit
+
+SUBLIBRARY:   A216      Basel Mathematik
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A216
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+216ZS  Sitzungszimmer (6. OG)
+
+SUBLIBRARY:   A220      Basel Bio- und Medizinethik 
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A222      Basel Inst. f. med. Mikrobio.
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A224      Basel Min.-petr. Institut
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A226      Basel Musikwiss. Seminar
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+VR     Verschiedene Standorte
+226MF  Mikrofilmarchiv
+226SR  Schrank
+
+SUBLIBRARY:   A228      Basel Departement Chemie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+MAG    Magazin
+
+SUBLIBRARY:   A230      Basel Nahoststudien
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A230
+FH     Freihandbereich
+MAG    Magazin
+RARA   Rara
+230FO  Folio
+
+SUBLIBRARY:   A232      Basel Institut für Pathologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A235      Basel Pharmazeutische Biologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+235B2  Büro Pharmazentrum
+
+SUBLIBRARY:   A236      Basel Molekulare Pharmazie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A237      Basel Pharmazeut. Technologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A238      Basel Philosophisches Seminar
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+MAG    Magazin
+PR     Präsenzbestand
+RARA   Rara
+238BU  Büro 3. OG
+
+SUBLIBRARY:   A239      Basel Bildungswissenschaften
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+239HB  Handbibliothek
+239PH  FHNW PH-Bibliothek, Basel
+
+SUBLIBRARY:   A241      Basel Sem. f. Iberoromanistik
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A230
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+RARA   Rara
+VR     Verschiedene Standorte
+24110  Büro 110
+24114  Büro 114
+
+SUBLIBRARY:   A242      Basel Französisches Seminar
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A230
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+RARA   Rara
+VR     Verschiedene Standorte
+
+SUBLIBRARY:   A243      Basel Sem. f. Italianistik
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A230
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+RARA   Rara
+VR     Verschiedene Standorte
+
+SUBLIBRARY:   A245      Basel Zentrum Afrikastudien
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A246      Basel Slavisches Seminar
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A246
+KE     Kein Exemplar vorhanden
+MAG    Magazin (1 Arbeitstag Wartezeit) 
+RARA   Rara
+VR     Verschiedene Standorte
+246CA  Cave
+246DA  Dachstock
+246R6  Erdgeschoss, Raum 6
+
+SUBLIBRARY:   A247      Basel Urban Studies
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A248      Basel Seminar für Soziologie
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A248
+FH     Freihandbereich
+ZSS    Zeitschriften
+248BB  Bibliotheksbüro
+248BE  Handbibliothek Bergmann
+248PA  Handbibliothek Paul
+
+SUBLIBRARY:   A250      Basel DSBG
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A250
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+PR     Präsenzbestand
+VR     Verschiedene Standorte
+250BS  Bürostandort St. Jakobturm
+250MA  St. Jakob
+250TT  Testothek
+
+SUBLIBRARY:   A251      Basel Frey-Grynäisches Inst.
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A252      Basel Theologische Fakultät
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+PR     Präsenzbestand
+RARA   Rara
+VR     Verschiedene Standorte
+ZSS    Zeitschriften
+
+SUBLIBRARY:   A253      Basel Arch. Bodenforschung
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+253BU  Bürostandort
+
+SUBLIBRARY:   A255      Basel IPNA
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+KE     Kein Exemplar vorhanden
+PR     Präsenzbestand
+255GE  Geoarchäologie
+255VM  Präsenzbestand SVGVM
+255WU  WUH13
+
+SUBLIBRARY:   A256      Augst Augusta Raurica
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+256AA  Ausgrabung
+256RT  Restaurierungen/Technischer Dienst
+
+SUBLIBRARY:   A258      Basel Volkskunde
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+LS     Lesesaal
+MAG    Bibliothek Rheinsprung 9
+258AD  Aussendepot, 2 Tage Wartefrist
+258MD  Bestand Museumsdienste BS
+
+SUBLIBRARY:   A259      Basel Sem. Kulturwissenschaft
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+LS     Lesesaal
+MAG    Bibliothek Rheinsprung 9
+259AD  Aussendepot, 2 Tage Wartefrist
+
+SUBLIBRARY:   A260      Basel Uni-Zahnmedizin
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+MAG    Magazin
+260CH  Chirurgie
+260KF  Kieferorthopädie
+260PE  Paradontologie
+260PR  Prothetik
+260PZ  Präventivmedizin/Mikrobiologie
+260WT  Werkstoffwissenschaft
+
+SUBLIBRARY:   A261      Basel Evolutionsbiologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A264      Basel Bibliothek MSD
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A264
+FH     Freihandbereich
+264BS  Nachhaltigkeitsforschung
+264MA  Masterarbeiten MSD / Vesalianum 2. Stock
+264VE  MGU / Vesalianum 2. Stock
+
+SUBLIBRARY:   A265      Basel Lehre LTN
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A266      Basel Europainstitut
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A268      Basel NLU Abt. Biologie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A274      Basel Felix Platter-Spital
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A276      Basel Uni-Frauenklinik
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A278      Liestal Kantonsspital BL
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+278BH  Standort Bruderholz
+278LA  Standort Laufen 
+278LI  Standort Liestal 
+278VT  Volltext nur im Kantonsspital Baselland zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   A280      Basel Kinderspital
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+280AN  Anästhesie
+280CH  Chirurgie
+280HA  Hämatologie
+280OR  Orthopädie
+280PB  Pflegebibliothek
+280RA  Radiologie
+280SN  Sekretariat Neonatologie
+
+SUBLIBRARY:   A281      Basel UPK KJPK
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+VR     Verschiedene Standorte
+281AB  Abteilungen
+
+SUBLIBRARY:   A282      Basel Augenklinik
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A284      Basel UPK
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A284
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+VR     Verschiedene Standorte
+284AB  Abteilungen
+284FB  Fachbestand 
+284PS  Fachbibliothek Pflege
+
+SUBLIBRARY:   A286      Basel Universitätsspital
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+286GE  Medizinische Genetik
+286RH  Chefsekretariat Rheumatologie
+
+SUBLIBRARY:   A288      Basel Spital-Pharmazie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A296      Basel Bibliothek f. Gestaltung
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A296
+KE     Kein Exemplar vorhanden
+RARA   Rara
+VR     Verschiedene Standorte
+296FE  Freihand EG
+296FO  Freihand OG
+296ME  Magazin EG
+296MO  Magazin OG
+296SO  Sondersammlung
+
+SUBLIBRARY:   A298      Basel Historisches Museum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+KE     Kein Exemplar vorhanden
+PR     Präsenzbestand
+VR     Verschiedene Standorte
+298AR  Archäologie
+298AU  Ausstellung
+298BL  Büro Leitung
+298DI  Direktion
+298KD  Kunstdenkmäler
+298M1  Magazin 1
+298M2  Magazin 2
+298M3  Magazin 3
+298M4  Sammlungsmagazin
+298MA  Magazin Auktionskataloge
+298MK  Münzkabinett
+298MM  Musik-Museum
+298MP  Museumspädagogik
+298R1  Restaurierung 1
+298R2  Restaurierung 2
+298SB  Seidenband
+298SE  Sekretariat
+
+SUBLIBRARY:   A300      Basel Kunstmuseum
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A300
+KE     Kein Exemplar vorhanden
+LS     Lesesaal
+MAG    Magazin
+RARA   Rara
+VR     Verschiedene Standorte
+300EL  Externes Lager (1 Arbeitstag Wartefrist)
+300HB  Handbibliothek Mitarbeitende
+300KK  Kupferstichkabinett Basel
+300KS  Langzeitlesesaal Kunsthist. Sem.
+
+SUBLIBRARY:   A301      Basel Schaulager
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+KE     Kein Exemplar vorhanden
+PR     Präsenzbestand
+VR     Verschiedene Standorte
+301EI  Standort in Eikones Rheinsprung 11
+
+SUBLIBRARY:   A302      Basel Naturhistorisches Museum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+MAG    Magazin
+302AN  Anthropologie
+302B1  Haus Berri, 1. Stock
+302B3  Haus Berri, 3. Stock
+302B4  Haus Berri, 4. Stock
+302BE  Haus Berri, EG
+302BF  Bibliothek Frey
+302EN  Entomologie 
+302GE  Haus Weisser Bär, Estrich
+302K2  Keller 2
+302K3  Keller 3
+302K4  Keller 4
+302OS  Osteologie
+302PT  Präparatorium
+302ST  Stehlinhalle
+302VE  Haus Venedig
+302WB  Haus Weisser Bär, Micropaläontologie
+
+SUBLIBRARY:   A304      Basel Pharmaziemuseum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A306      Basel Sportmuseum Schweiz
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A310      Basel Museum der Kulturen
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A310
+KE     Kein Exemplar vorhanden
+LS     Lesesaal
+MAG    Magazin
+VR     Verschiedene Standorte
+310IG  Interner Gebrauch
+310KB  KBS Schindler-Holzapfel
+310NE  Neueingänge 
+
+SUBLIBRARY:   A316      Basel Basler Afrika Bibliogr.
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+MAG    Magazin
+
+SUBLIBRARY:   A320      Basel Karl Barth-Archiv
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+MAG    Magazin
+PR     Präsenzbestand
+320DE  Dedikationsexemplare
+
+SUBLIBRARY:   A322      Basel Swiss TPH
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A322
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+VR     Verschiedene Standorte
+322AR  Archiv
+
+SUBLIBRARY:   A326      Basel Kunsthalle
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+RARA   Rara
+VR     Verschiedene Standorte
+
+SUBLIBRARY:   A332      Basel Musik-Akademie
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A332
+FH     Freihandbereich
+LS     Lesesaal
+RARA   Rara
+332AZ  Audiozentrum
+332ES  Elektronisches Studio
+332HB  Büro Handbibliothek
+332JS  Jazzcampus
+332LW  Lohr-Wenzinger-Studio
+332MS  Musikschule Riehen
+332MX  Musikbox
+332OL  Nur im FHNW-Netz zugänglich. Link siehe unter Online
+332RS  Rollschrank
+332SM  Studio Musikpädagogik
+332VR  Verschiedene Standorte
+
+SUBLIBRARY:   A342      Basel Pädagogisches Zentrum
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IBB | Oeffnungszeiten (tab17): A342
+FH     Freihandbereich
+342AR  Archiv
+342DB  Datenbank nur in Basel Päd. Zentrum zugänglich. Link siehe unter Online
+342MA  Magazin
+342VT  Volltext nur in Basel Päd. Zentrum zugänglich. Link siehe unter Online
+
+SUBLIBRARY:   A344      Basel Schulpsych. Dienst
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A348      Basel Staatsarchiv
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+MAG    Magazin
+
+SUBLIBRARY:   A350      Basel SKUBA Zeitungsecke
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A351      Münchenstein Mediothek BZG
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A351
+FH     Freihandbereich
+PR     Präsenzbestand
+351BG  Berufsfachschule für Gesundheit BL
+351DB  Datenbank nur im BZG zugänglich. Link siehe unter 'Online'
+351VT  Volltext nur im BZG zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   A353      Basel Informatik
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A354      Basel Zentrum Gender Studies
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A354
+FH     Freihandbereich
+
+SUBLIBRARY:   A356      Basel Seminar f. Medienwiss.
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+356MA  Medienarchiv
+
+SUBLIBRARY:   A360      Liestal Gleichstellung
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   A361      Basel Sprachenzentrum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A362      Basel Jüdische Studien
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16): INT | Oeffnungszeiten (tab17): A100
+PR     Präsenzbestand
+VR     Verschiedene Standorte
+362A1  Assistentenbüro 1. Stock
+362KE  Keller
+362P   Studienraum Parterre
+362S   Sekretariat
+362S1  Seminarraum 1. Stock
+362UB  externes Magazin (2-3 Arbeitstage Wartefrist)
+
+SUBLIBRARY:   A363      Basel Kulturmanagement
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A364      Basel Lernzentrum Medizin
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A366      Basel Studienberatung
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IBB | Oeffnungszeiten (tab17): A366
+FH     Freihandbereich
+
+SUBLIBRARY:   A367      Basel eikones
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+KE     Kein Exemplar vorhanden
+PR     Präsenzbestand
+VR     Verschiedene Standorte
+
+SUBLIBRARY:   A368      Basel Uni Chancengleichheit
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A369      Basel Sammlung Morel
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A370      Dornach Goetheanum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+
+SUBLIBRARY:   A371      Basel KUG
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+PR     Präsenzbestand
+
+SUBLIBRARY:   A372      Basel Konfuziusinstitut
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A373      Basel CEPS
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   A374      Dornach Rudolf Steiner Archiv
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+
+SUBLIBRARY:   B400      Bern UB Speichermagazin
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B400
+400DL  Dauerleihe
+400DP  -
+400E1  Sektor E1
+400E2  Sektor E2
+400E3  Sektor E3
+400E4  Sektor E4
+400E5  Sektor E5
+400E6  Sektor E6
+400E7  Sektor E7
+400E8  Sektor E8
+400E9  Sektor E9
+400EX  Sektor E10
+400F3  Sektor F3
+400F4  Sektor F4
+400G1  Sektor G1
+400G2  Sektor G2
+400G3  Sektor G3
+400G5  Sektor G5
+400G6  Sektor G6
+400H1  Sektor H1
+400H2  Sektor H2
+400H3  Sektor H3
+400H5  Sektor H5
+400H6  Sektor H6
+400IL  Nehmende Fernleihe
+400J1  Sektor J1
+400J2  Sektor J2
+400J3  Sektor J3
+400J4  Sektor J4
+400J5  Sektor J5
+400J6  Sektor J6
+400K1  Sektor K1
+400K2  Sektor K2
+400K3  Sektor K3
+400K4  Sektor K4
+400K5  Sektor K5
+400K6  Sektor K6
+400L1  Sektor L1
+400L2  Sektor L2
+400L3  Sektor L3
+400L4  Sektor L4
+400L5  Sektor L5
+400L6  Sektor L6
+400M   Magazin
+400Q1  Sektor Q1
+400Q2  Sektor Q2
+400Q3  Sektor Q3
+400Q4  Sektor Q4
+400Q5  Sektor Q5
+400Q6  Sektor Q6
+400Q7  Sektor Q7
+400Q8  Sektor Q8
+400Q9  Sektor Q9
+400QX  Sektor Q10
+400SZ  Servicezentrum Zeitschriften
+400VR  Verschiedene Standorte
+
+SUBLIBRARY:   B404      Bern UB Münstergasse
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B400
+404BB  Schultheissensaal, Bernensia
+404CA  Lounge
+404FK  Fachdokumentation Konservierung
+404IN  Infotheke
+404LM  Lesesaalmagazin
+404LS  Lesesaal
+404SH  Schultheissensaal, Zeitschriften
+404SO  Sonderlesesaal Historische Bestände
+404U3  Magazin
+404VR  Verschiedene Standorte
+404VW  Verwaltung
+
+SUBLIBRARY:   B405      Bern UB Online
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+405CD  CD-Server nur im Uninetz zugänglich. Link siehe unter 'Online'
+405DB  Datenbank nur im Uninetz zugänglich. Link siehe unter 'Online'
+405LE  Link siehe Einzelbände
+405OL  Online. Links siehe unter 'Online'
+405VT  Volltext nur im Uninetz zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   B406      Bildungszentrum Pflege Online
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+406DB  Datenbank nur in Bern BZ Pflege zugänglich. Link siehe unter 'Online'
+406VT  Volltext nur in Bern BZ Pflege zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   B407      Zollikofen EHB Online
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+407DB  Datenbank nur in Zollikofen EHB zugänglich. Link siehe unter 'Online'
+407VT  Volltext nur in Zollikofen EHB zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   B410      Bern UB BTO
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+410IL  Nehmende Fernleihe
+410VW  Verwaltung
+
+SUBLIBRARY:   B412      Bern UB Berner Bibliografie
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+412BB  Bibliografie-Eintrag. Wählen Sie ein anderes Exemplar (sofern vorhanden)
+412HO  Bibliografie-Eintrag
+
+SUBLIBRARY:   B415      Bern UB SOB
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B415
+FH     Freihandbereich
+LS     Lesesaal
+415DB  Davoser Bibliothek
+415H2  Magazin H8 (1 Arbeitstag Wartefrist)
+415IL  Nehmende Fernleihe
+415U1  Freihandmagazin
+415U2  Magazin 2. UG (1 Arbeitstag Wartefrist)
+415U3  Magazin 3. UG (1 Arbeitstag Wartefrist)
+415V1  Verwaltung
+415V2  Leitung
+415V3  Buchbearbeitung
+415VR  Verschiedene Standorte
+415XX  Magazin
+415ZT  Zeitungen
+
+SUBLIBRARY:   B418      Zollikofen EHB
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B418
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+ZSS    Zeitschriften
+418DB  Datenbank nur in Zollikofen EHB zugänglich. Link siehe unter ,Online'
+418FE  Forschung & Entwicklung
+418MS  Leitung M Sc
+418OL  Standort Olten
+418SV  Services
+418VT  Volltext nur in Zollikofen EHB zugänglich. Link siehe unter ,Online'
+418ZB  Zentrum für Berufsentwicklung
+418ZH  Standort Zürich
+
+SUBLIBRARY:   B420      Bern BFH HKB Musikbibliothek
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B420
+420BA  Aussenmagazin (Bücher) (3 Arbeitstage Wartefrist)
+420CD  CD-Galerie / Galerie CD
+420FN  Freihandbereich / libre-accès
+420GA  Lesesaal Galerie / Galérie salle de lecture
+420MN  Magazin / Magasin
+420RA  Aussenmagazin (Rara) / Dépôt externe (Rara)
+420RB  Rhythmik Biel / Rythmique Bienne
+420ZA  Aussenmagazin (Zeitschriften) / Depôt externe (Périodiques)
+
+SUBLIBRARY:   B424      Windisch SBB Historic
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B424
+424AU  Ausleihe
+424BM  Büchermagazin
+424DB  Datenbank nur bei SBB Historic zugänglich. Link siehe unter 'Online'
+424LZ  Lesezimmer
+424RG  Rechtsdienst Konzern
+424VT  Volltext nur bei SBB Historic zugänglich. Link siehe unter 'Online'
+424ZA  Zeitschriftenartikel
+424ZM  Zeitschriftenmagazin
+
+SUBLIBRARY:   B425      Bern Schule für Gestaltung
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B425
+425CD  Freihandmediothek CDs (Hauptgebäude Bern)
+425CP  Compactus (Hauptgebäude Bern)
+425DB  Datenbank nur in der Schule für Gestaltung Bern zugänglich. Link siehe unter 'Online'
+425FH  Freihandmediothek (Hauptgebäude Bern)
+425FK  Fachklasse Keramik (Hauptgebäude Bern)
+425HL  Handapparat Lehrerschaft (Hauptgebäude Bern)
+425KD  Freihandmediothek Kunstdrucke (Hauptgebäude Bern)
+425SP  Spezialformate
+425VK  Propädeutikum (Hauptgebäude Bern)
+425VT  Volltext nur in der Schule für Gestaltung Bern zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   B429      Bern MfK/PTT-Archiv
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+429B1  Büro 1 PTT-Archiv
+429B2  Büro 2 PTT-Archiv
+429DA   Handapparat Dauerausstellung
+429DB  Datenbank nur im MfK/PTT-Archiv zugänglich. Link siehe unter 'Online'
+429FS  Fotosammlung
+429GS  Graphische Sammlung
+429HB  Handbibliothek MfK
+429LP  Lesesaal PTT-Archiv
+429MA  Magazin Philatelie
+429MP  Magazin PTT
+429PA  Persönliche Handapparate
+429VT  Volltext nur im MfK/PTT-Archiv zugänglich. Link siehe unter 'Online'
+429WA  Handapparat Wechselausstellung
+
+SUBLIBRARY:   B432      Bern Swissmedic
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B432
+432AC  QR
+432AT  PCR
+432BW  Bewilligungen Freiburgstrasse
+432DB  Datenbank nur bei Bern Swissmedic zugänglich. Link siehe unter 'Online'
+432FH  Bibliothek Hallerstrasse (OG1)
+432FM  Bibliothek Magazin
+432KP  KPA
+432ME  MEP
+432MK  MKA
+432MU  Marktüberwachung Erlachstrasse
+432PM  Pharmakopöe Archiv
+432PO  Personal und Organisation
+432RE  Recht
+432TA  TAM
+432VT  Volltext nur bei Bern Swissmedic zugänglich. Link siehe unter 'Online'
+432ZE  Zeitschriften Erlachstrasse
+432ZF  Zeitschriften Freiburgstrasse
+432ZH  Zeitschriften Hallerstrasse (OG1)
+432ZS  Zeitschriften Cafeteria
+
+SUBLIBRARY:   B433      Bern Bildungszentrum Pflege
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B433
+FH     Freihandbereich
+PR     Präsenzbestand
+ZSS    Zeitschriften
+433DB  Datenbank nur in Bern BZ Pflege zugänglich. Link siehe unter 'Online'
+433LB  LehrerInnenbibliothek
+433SC  Skills-Center 
+433VT  Volltext nur in Bern BZ Pflege zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   B434      Bern Staatsarchiv
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+434AD  Magazin: Amtsdruckschriften
+434FR  Fotoraum
+434HA  Depot Hallerstrasse
+434LG  Lesesaal gross
+434LK  Lesesaal klein
+434MB  Magazin: Militärbibliothek
+434MO  Magazin: Bücher und Broschüren
+434PR  Preziosa
+434RA  Restaurierungsatelier
+434VW  Verwaltung
+434ZG  Magazin: Zeitungen
+434ZS  Magazin: Zeitschriften
+
+SUBLIBRARY:   B437      Magglingen Sportmediathek
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B437
+437AU  Ausleihschalter / Guichet du prêt
+437DB  Datenbank nur in Magglingen zugänglich. Link siehe unter 'Online'
+437FH  Freihand / Libre-accès
+437MC  Magazin Compactus / Magasin compactus
+437MF  Zeitschriftenarchiv / Archives revues
+437RA  Rara / Livres rares
+437SW  Archiv (2 Tage Lieferfrist) / Archives (livraison : 2 jours)
+437VT  Volltext nur in Magglingen zugänglich. Link siehe unter 'Online'
+437VV  Videothek / Vidéothèque
+437ZH  Magazin / Magasin
+437ZS  Zeitschriften / Revues
+
+SUBLIBRARY:   B439      Thun Bildungszentrum Pflege
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+PR     Präsenzbestand
+ZSS    Zeitschriften
+439LB  LehrerInnenbibliothek
+
+SUBLIBRARY:   B440      Bern Burgerbibliothek
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+440LS  Lesesaal
+440U4  Magazin U4
+440U5  Magazin U5
+440UU  Magazin Überformat
+440Z1  Sitzungszimmer
+440Z2  Büro Kons. Bongarsiana
+
+SUBLIBRARY:   B445      Bern Gosteli Archiv
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+445AN  Archiv Nachlässe
+445BS  Bücher, 1. Stock
+445EG  Bücher, Erdgeschoss
+445ME  Mehrfachexemplar, 1. Stock
+445S1  Broschüren, 1. Stock
+445S2  2. Stock
+445ZS  Zeitschriften
+
+SUBLIBRARY:   B450      Bern Fliegende Katalogisierung
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+
+SUBLIBRARY:   B451      Bern UNI Universitätsarchiv
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B452      Bern UB FBB
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B452
+RARA   Rara
+452AP  Downloadlink für Studierende bei der Bibliothek erhältlich
+452AV  Belletristik Medizin (1. Stock)
+452BA  Naturwissenschaften
+452BI  Naturwissenschaften
+452BM  Biochemie und Molekulare Medizin
+452BS  Sondersammlungen
+452BZ  Bio Zeitschriften
+452GG  Geo Forschung
+452GS  Geo Zeitschriften Sonderstandort
+452GZ  Geo Zeitschriften
+452HW  Naturwissenschaften
+452IA  Anatomisches Institut
+452IB  Institut für  Biochemie
+452IL  Nehmende Fernleihe
+452KA  Geo Atlanten
+452KF  Geo Faltkarten
+452KP  Geo Planokarten
+452LB  Medizin
+452LG  Naturwissenschaften
+452PA  Institut für Pathologie
+452PI  Physiologisches Institut
+452SY  Institut für Ökologie und Evolution, Abt. Synökologie
+452VW   Verwaltung
+452ZH  Institut für Ökologie und Evolution, Hasli
+452ZI  Institut für Ökologie und Evolution, Abt. Entwicklungsbiologie
+
+SUBLIBRARY:   B455      Bern UB IZFG
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B464      Bern UB JFB
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B464
+464AR  Archiv
+464FG  Grundlagenfächer
+464FO  Öffentliches Recht
+464FP  Privatrecht
+464FS  Strafrecht
+464FW  Wirtschaftsrecht
+464MA  Magazin
+464PB  Präsenzbestand
+464PM  Public Management
+464RG  Rara Grundlagenfächer
+464SM  Steuerrecht
+464SZ  Zeitschriften Steuerrecht
+464VW  Verwaltung
+464ZG  Zeitschriften Grundlagenfächer
+464ZO  Zeitschriften Öffentliches Recht
+464ZP  Zeitschriften Privatrecht
+464ZS  Zeitschriften Strafrecht
+464ZW  Zeitschriften Wirtschaftsrecht
+
+SUBLIBRARY:   B465      Bern UB JBB
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): B465 | Oeffnungszeiten (tab17): B465
+FH     Freihandbereich
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+465VS  Bibliotheksverwaltung
+
+SUBLIBRARY:   B466      Bern UB Eugen Huber Bibliothek
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+MAG    Magazin
+ZSS    Zeitschriften
+466QU  Quellen
+466SO  Sonderdrucke
+
+SUBLIBRARY:   B467      Bern UB Geographie
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B467
+FH     Freihandbereich
+MAG    Magazin
+ZSS    Zeitschriften
+467AR  Archiv
+467SO  Sonderstandorte
+
+SUBLIBRARY:   B470      Bern UB Evang. Theologie
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+ZSS    Zeitschriften
+470BB  Bibliotheksbüro A017
+470PH  Praxishilfen
+470PK  Praktisch-theol. Kurs
+470PS  Praktisches Semester
+470ZA  Zeitschriften Archiv
+
+SUBLIBRARY:   B476      Bern UB Anglistik
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+ZSS    Zeitschriften
+476CO  Compactus (2 Tage Wartefrist)
+476MS  Medienschrank (2 Tage Wartefrist)
+
+SUBLIBRARY:   B478      Bern UB Sprachwissenschaft
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus (3 Tage Wartefrist)
+FH     Freihandbereich
+KE     Kein Exemplar vorhanden
+PR     Präsenzbestand
+RARA   Rara (3 Tage Wartefrist)
+VR     Verschiedene Standorte
+ZSS    Zeitschriften
+478NB  Nonbooks (3 Tage Wartefrist)
+
+SUBLIBRARY:   B488      Bern UB Slavistik
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus (3 Tage Wartefrist)
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara (3 Tage Wartefrist)
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B490      Bern UB Germanistik
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+490NZ  Compactus (nicht zugänglich)
+490VW  Verwaltung
+490ZA  Forschungsstelle Jeremias Gotthelf
+490ZR  Zeitschriften und Reihen
+
+SUBLIBRARY:   B492      Bern UB Geschichte
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+FH     Freihandbereich
+ZSS    Zeitschriften
+492CA  Compactus AG (2 Tage Wartefrist)
+492CO  Compactus (2 Tage Wartefrist)
+492P1  Plattform 1
+492P2  Plattform 2
+492PA  Panzerschrank AG (2 Tage Wartefrist)
+492PS  Panzerschrank (2 Tage Wartefrist)
+492SB  Schrank Bibliothek (2 Tage Wartefrist)
+492VW  Verwaltung
+492ZA  Zeitschriften Alte Geschichte
+
+SUBLIBRARY:   B498      Bern UB Romanistik
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus
+498EF  Spanisch Freihandbereich
+498EP  Spanisch Präsenzbestand
+498ES  Spanisch Sonderstandort
+498FF  Französisch: Sprachwiss. Freihandbereich
+498FP  Französisch: Sprachwiss. Präsenzbestand
+498FS  Französisch: Sprachwiss. Sonderstandort
+498IF  Italienisch Freihandbereich
+498IP  Italienisch Präsenzbestand
+498IS  Italienisch Sonderstandorte
+498JP  Jaberg Bibliothek Präsenzbestand
+498JS  Jaberg Bibliothek Sonderstandort
+498LF  Französisch: Literaturwiss. Freihandbereich
+498LP  Französisch: Literaturwiss. Präsenzbestand
+498LS  Französisch: Literaturwiss. Sonderstandort
+498RF  Romanische Philologie Freihandbereich
+498RP  Romanische Philologie Präsenzbestand
+498RS  Romanische Philologie Sonderstandort
+498VW  Verwaltung
+
+SUBLIBRARY:   B500      Bern UB vonRoll
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B500
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+ZSS    Zeitschriften
+500EK  Externer Klassensatz
+500GA  Spiele
+500IL  Nehmende Fernleihe
+500KS  Klassensatz
+500PA  Permanentapparat
+500Q6  Speicher Q6
+500Q7  Speicher Q7
+500SP  Speicher
+500SZ  SZ Zeitschriften
+500VR  Verschiedene Standorte
+500VW  Verwaltung
+
+SUBLIBRARY:   B501      Bern UB Lerchenweg
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B501
+FH     Freihandbereich
+MAG    Magazin (2 Tage Wartefrist)
+PR     Präsenzbestand
+RARA   Rara (2 Tage Wartefrist)
+ZSS    Zeitschriften
+501SO  Sonderstandort (2 Tage Wartefrist)
+501ZM  Zeitschriftenmagazin (2 Tage Wartefrist)
+
+SUBLIBRARY:   B503      Bern UB Philosophie
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus (3 Tage Wartefrist)
+FH     Freihandbereich
+PR     Präsenzbestand
+503LZ  Laufende Zeitschriften
+
+SUBLIBRARY:   B505      Bern UB Klassische Philologie
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus (3 Tage Wartefrist)
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara (3 Tage Wartefrist)
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B507      Bern UB Christkath. Theologie
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B410
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+ZSS    Zeitschriften
+507DH  Depot Haller
+507VW  Verwaltung
+
+SUBLIBRARY:   B513      Bern Campus Muristalden
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B513
+COM    Compactus
+MAG    Magazin
+ZSS    Zeitschriften
+513BF  Belletristik Freihandbereich
+513BK  Bilderbuch Freihandbereich Kinder
+513CE  Comic Freihandbereich Erwachsene
+513CK  Comic Freihandbereich Kinder
+513JF  Kinder- und Jugendbuch Freihandbereich
+513MU  Musik Handbibliothek
+513NF  Nonbooks Freihandbereich
+513RE  Religion/Ethik Handbibliothek
+513SF  Sachbuch Freihandbereich
+513SG  Spezialgebiete Freihandbereich
+513VW  Verwaltung
+
+SUBLIBRARY:   B517      Bern PH Institut Medienbildung
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B517
+MAG    Magazin
+PR     Präsenzbestand
+VR     Verschiedene Standorte
+ZSS    Zeitschriften
+517EK  Externer Klassensatz
+517OF  Online-Film. Nur für Berechtigte Bern PH Institut Medienbildung
+517S1  Magazin IS1
+517S2  Magazin IS2
+517WB  Altes Magazin IWB
+517WM  Magazin IWB
+517WP  Präsenzbestand IWB
+
+SUBLIBRARY:   B521      Bern UB Zahnmedizin
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B521
+FH     Freihandbereich
+ZSS    Zeitschriften
+521AR  Archiv
+521SO  Sonderstandort
+
+SUBLIBRARY:   B525      Bern UB WB Gesundheitswesen
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+
+SUBLIBRARY:   B527      Bern UB Public Health
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B527
+FH     Freihandbereich
+ZSS    Zeitschriften
+527AR  Archiv
+527GF  Abteilung Gesundheitsforschung
+
+SUBLIBRARY:   B529      Bern UB Rechtsmedizin
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B531      Bern UB Medizinische Lehre
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B534      Bern UB Vorderasiat. Archäol.
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B540      Bern UB Vetsuisse
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B540
+FH     Freihandbereich
+MAG    Magazin
+SP     Speicherbibliothek
+540AR  Archiv
+540KL  Kliniken/Institute
+540KM  Kliniken/Institute Magazin
+
+SUBLIBRARY:   B542      Bern UPD WA
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+PR     Präsenzbestand
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+542AL  Archiv Labor
+542BM  Büchermagazin
+542FA  Forensik, Abteilung
+542FB  Forensik, Bibliothek
+542FO  Forschungsabteilung
+542MM  Büchermagazin 2
+542ZM  Zeitschriftenmagazin
+
+SUBLIBRARY:   B550      Bern UB Arch. Mittelmeerraum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B552      Bern UB Pflanzenwissensch.
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B552
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+ZSS    Zeitschriften
+552FU  Fuchsbibliothek
+552HO  Gartenbibliothek
+552VW  Verwaltung
+
+SUBLIBRARY:   B554      Bern UB Chemie und Biochemie
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B554
+FH     Freihandbereich
+PR     Präsenzbestand
+VW     Verwaltung
+ZSS    Zeitschriften
+554SO  Sonderstandorte
+554U3  Magazin U3
+
+SUBLIBRARY:   B555      Bern UB Mittelstrasse
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B555
+RARA   Rara
+ZSS    Zeitschriften-Lesesaal
+555FE  Freihandmagazin EG
+555GF  Grossformate U2
+555HM  Bernisches Historisches Museum
+555KB  Kunstmuseum Bern
+555MR  Medienraum
+555U1  Freihandmagazin U1
+555U2  Freihandmagazin U2
+555VW  Verwaltung
+
+SUBLIBRARY:   B557      Bern UB Musikwissenschaft
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+SP     Speicherbibliothek
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B559      Bern Naturhistorisches Museum
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+559DB  Datenbank nur im Naturhistorischen Museum Bern zugänglich. Link siehe unter 'Online'
+559MP  Museumspädagogik
+559SP  Spezialliteratur
+559VT  Volltext nur im Naturhistorischen Museum Bern zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   B565      Bern UB Kunstgeschichte/Museum
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B565
+565AR  Archiv
+565EX  Extern
+565F5  5. Untergeschoss
+565F6  6. Untergeschoss
+
+SUBLIBRARY:   B569      Bern UB Betriebswirtschaft
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B569
+SP     Speicherbibliothek
+569FF  IFM Freihandbereich
+569FS  IFM Sonderstandort
+569FZ  IFM Zeitschriften
+569IF  IMU-CB Freihandbereich
+569IS  IMU-CB Sonderstandort
+569IZ  IMU-CB Zeitschriften
+569MF  IMU Freihandbereich
+569MS  IMU Sonderstandort
+569MZ  IMU Zeitschriften
+569OF  IOP Freihandbereich
+569OS  IOP Sonderstandort
+569OZ  IOP Zeitschriften
+569UF  IUC Freihandbereich
+569US  IUC Sonderstandort
+569UZ  IUC Zeitschriften
+569WF  IWI Freihandbereich
+569WM  IWI Magazin
+569WS  IWI Sonderstandort
+569WZ  IWI Zeitschriften
+569ZS  Zeitschriften
+
+SUBLIBRARY:   B571      Bern UB Weiterbildung (ZUW)
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B571
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+ZSS    Zeitschriften
+571HA  Handbibliothek Personal
+
+SUBLIBRARY:   B575      Bern UB Ur- u. Frühgeschichte
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+COM    Compactus
+FH     Freihandbereich
+PR     Präsenzbestand
+RARA   Rara
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B577      Bern UB Theaterwissenschaft
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B579      Bern SAPA
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+ZSS    Zeitschriften
+579M1  Externes Magazin 1
+579NM  Neues Magazin
+
+SUBLIBRARY:   B581      Bern UB Nachhaltigkeit
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B581
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+ZSS    Zeitschriften
+581FH  Freihandbereich
+581M2  Magazin
+
+SUBLIBRARY:   B583      Bern UB Medizingeschichte
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B583
+COM    Compactus
+KE     Kein Exemplar vorhanden
+MAG    Magazin
+PR     Präsenzbestand
+ZSS    Zeitschriften
+583BA  AIDS Info Docu
+583LS  Lesesaal
+583MM  Medizinmuseum Bern
+583MO  Magazin Obergeschoss
+583RO  Rorschach-Archiv
+583SA  Separatasammlungen
+
+SUBLIBRARY:   B589      Bern UB Volkswirtschaftslehre
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+ZSS    Zeitschriften
+589AR  Archiv
+589DO  Dokumentationen
+589FC  FIF Compactus
+589FF  FIF Freihandbereich
+589FZ  FIF Zeitschriften
+589ME  Medien
+589RE  Nachschlagewerke
+589ZT  Zeitungen
+
+SUBLIBRARY:   B591      Bern UB Sportwissenschaft
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): B591
+FH     Freihandbereich
+MAG    Magazin
+PR     Präsenzbestand
+RARA   Rara
+ZSS    Zeitschriften
+
+SUBLIBRARY:   B599      Bern UB World Trade Institute
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FH     Freihandbereich
+ZSS    Zeitschriften
+
+SUBLIBRARY:   BSSBI     Basel Externes Magazin
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A100
+342SB  Bestand PZB (2 Arbeitstage Wartefrist)
+
+SUBLIBRARY:   BSSBK     Speicherbibliothek Kollektiv
+# Aleph-Ausleihe: Verbund | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A100
+MAG    Externes Magazin
+
+SUBLIBRARY:   FHCH      Schweiz FH Online
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+FCHCD  CD-Server nur im FH-Netz zugänglich. Link siehe unter 'Online'
+FCHDB  Datenbank nur im FH-Netz zugänglich. Link siehe unter 'Online'
+FCHOL  Online. Links siehe unter 'Online'
+FCHVT  Volltext nur im FH-Netz zugänglich. Link siehe unter 'Online'
+
+SUBLIBRARY:   FREE      Online. Frei zugänglich.
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+OL     Online. Links siehe unter 'Online'
+
+SUBLIBRARY:   SOSBI     Solothurn Zentralbibliothek
+# Aleph-Ausleihe: lokal | Faelligkeiten (tab16): IDS | Oeffnungszeiten (tab17): A150
+MAG    Externes Magazin (2 Arbeitstage Wartefrist)
+
+SUBLIBRARY:   Z900      ***
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+900KE  kein Exemplar vorhanden
+
+SUBLIBRARY:   Z998      ***
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+998    -
+998TH  Siehe Standort der Zeitschrift über 'Gehe zu'
+
+SUBLIBRARY:   Z999      ***
+# Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+999EX  Exemplar ausgeschieden
+999KE  Kein Exemplar vorhanden
+

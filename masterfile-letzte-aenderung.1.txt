@@ -1,0 +1,51 @@
+27c27
+< # generiert:  4.09.2020  14:31:12
+---
+> # generiert: 29.01.2021  13:13:57
+187,193d186
+< SUBLIBRARY:   A166      Basel Pro Natura
+< # Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+< FH     Freihandbereich
+< PR     Präsenzbestand
+< 166UB  Büro 118
+< 166VT  Volltext nur für Pro Natura Basel zugänglich. Link siehe unter 'Online'
+< 
+407,410d399
+< SUBLIBRARY:   A237      Basel Pharmazeut. Technologie
+< # Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+< PR     Präsenzbestand
+< 
+432,435d420
+< SUBLIBRARY:   A247      Basel Urban Studies
+< # Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+< PR     Präsenzbestand
+< 
+455,462d439
+< SUBLIBRARY:   A252      Basel Theologische Fakultät
+< # Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+< KE     Kein Exemplar vorhanden
+< MAG    Magazin
+< PR     Präsenzbestand
+< RARA   Rara
+< ZSS    Zeitschriften
+< 
+505,508d481
+< SUBLIBRARY:   A261      Basel Evolutionsbiologie
+< # Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+< PR     Präsenzbestand
+< 
+726,734d698
+< SUBLIBRARY:   A362      Basel Jüdische Studien
+< # Aleph-Ausleihe: lokal | Faelligkeiten (tab16): INT | Oeffnungszeiten (tab17): A100
+< PR     Präsenzbestand
+< VR     Verschiedene Standorte
+< 362A1  Assistentenbüro 1. Stock
+< 362P   Studienraum Parterre
+< 362S1  Seminarraum 1. Stock
+< 362UB  externes Magazin (2-3 Arbeitstage Wartefrist)
+< 
+761,764d724
+< SUBLIBRARY:   A372      Basel Konfuziusinstitut
+< # Aleph-Ausleihe: keine | Faelligkeiten (tab16):  | Oeffnungszeiten (tab17): 
+< PR     Präsenzbestand
+< 
